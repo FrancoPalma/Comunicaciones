@@ -142,7 +142,8 @@ class Huffman: # declaracion de variables para la creacion del arbol de Huffman
 
 
 
-#if __name__=="__main__":
+if __name__=="__main__":
+
 
 
         print( "INGRESAR LOS SIMBOLOS O UN MENSAJE QUE DESEA COMPRIMIR:")
