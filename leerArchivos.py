@@ -1,21 +1,21 @@
 import time
 import string
 import test
-
-start_time = time.time()
-
+l2=[]
 aux = 1
 while(aux <= 30):
+    start_time = time.time()
+    l=[]
     file = open("Archivos/archivo"+str(aux)+".txt", "r")
     x = ""
     for i in file:
         x += i;
 
     compressed = test.compress(x)
-    print (compressed)
+    l.append (compressed)
     decompressed = test.decompress(compressed)
-    print (decompressed)
+    l.append (decompressed)
     aux += 1
-
-
-print("--- %s seconds ---" % (time.time() - start_time))
+    l.append("--- %s seconds ---" % (time.time() - start_time))
+    l2.append(l)
+print(l2)
