@@ -160,8 +160,8 @@ if __name__=="__main__":
 
     for i in mensaje:
         if i in msm:
-            print() i,"=",int ( msm.count(i))
-            simbolos+=i
+            print(i,"=",int ( msm.count(i))
+            simbolos += i
             probabilidad.append(float(float ( msm.count(i))/float(len(mensaje))))
             msm=msm.replace(i,'')
             d+= 1
