@@ -14,7 +14,7 @@ except:
 #Encontrar ancho y alto de una imagen
 ancho,alto = img.size
 print("Ancho: ",ancho)
-print("Alto: ",alto)7
+print("Alto: ",alto)
 #Reescalar imágenes y crear thumbnails
 #size = (200,200)
 #img3 = img.resize(size)
