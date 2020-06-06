@@ -5,9 +5,9 @@ try:
 except:
     print("No se pudo cargar la imagen")
     sys.exit(1)
-img.show()
+#img.show()
 #Conversión de JPG a PNG
-#img.save("paisaje.png","png")
+img.save("paisaje.png","png")
 #Rotación de imágenes
 #img2 = img.rotate(45)
 #img2.show()
