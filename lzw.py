@@ -1,66 +1,56 @@
-diccionario_ascii = ["NUL","SOH","STX","ETX","EOT","ENQ","ACK","BEL","BS","HT","LF","VT","FF","CR","SO","SI","DLE","DC1","DC2","DC3","DC4","NAK","SYN","ETB","CAN","EM","SUB","ESC","FS","GS","RS","US"," ","!","'","#","$","%","&","(",")","*","+",",","-",".","/","0","1","2","3","4","5","6","7","8","9",":",";","<","=",">","?","@","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","[","]","^","_","`","a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","{","|","}","~","¿","Á","É","Í","Ó","Ú","Ä","Ë","Ï","Ö","Ü","Ñ","ñ","/","¡","á","é","í","ó","ú"]
-def comprimir(frase, diccionario):
+def compress(uncompressed):
+    """Compress a string to a list of output symbols."""
+
+    # Build the dictionary.
+    dict_size = 256
+    dictionary = dict((chr(i), i) for i in range(dict_size))
+    # in Python 3: dictionary = {chr(i): i for i in range(dict_size)}
+
     w = ""
-    b = 0
-    salida = []
-    while(b<len(frase)):
-        k = frase[b]
-        wk = w +k
-        if(wk in diccionario):
-            w = wk
-            b = b+1
+    result = []
+    for c in uncompressed:
+        wc = w + c
+        if wc in dictionary:
+            w = wc
         else:
-            indice = diccionario.index(w)
-            salida.append(indice)
-            diccionario.append(wk)
-            w=k
-            b = b+1
-    indice = diccionario.index(w)
-    salida.append(indice)
-    return salida
+            result.append(dictionary[w])
+            # Add wc to the dictionary.
+            dictionary[wc] = dict_size
+            dict_size += 1
+            w = c
 
-def descomprimir(salida,diccionario):
-    res = []
-    i = 0
-    cod_viejo = salida[i]
-    caracter = diccionario[cod_viejo]
-    res.append(caracter)
-    i+=1
-    while (i < len(salida)):
-        cod_nuevo = salida[i]
-        if(cod_nuevo not in diccionario):
-            cadena = diccionario[cod_nuevo]
-            res.append(cadena)
-            caracter = cadena[0]
-            diccionario.append(diccionario[cod_viejo] + caracter)
-            cod_viejo = cod_nuevo
-            i+=1
+    # Output the code for w.
+    if w:
+        result.append(dictionary[w])
+    return result
+
+
+def decompress(compressed):
+    """Decompress a list of output ks to a string."""
+    from io import StringIO
+
+    # Build the dictionary.
+    dict_size = 256
+    dictionary = dict((i, chr(i)) for i in range(dict_size))
+    # in Python 3: dictionary = {i: chr(i) for i in range(dict_size)}
+
+    # use StringIO, otherwise this becomes O(N^2)
+    # due to string concatenation in a loop
+    result = StringIO()
+    w = chr(compressed.pop(0))
+    result.write(w)
+    for k in compressed:
+        if k in dictionary:
+            entry = dictionary[k]
+        elif k == dict_size:
+            entry = w + w[0]
         else:
-            cadena = diccionario[cod_viejo]
-            cadena = cadena + caracter
-            i+=1
-    return res
+            raise ValueError('Bad compressed k: %s' % k)
+        result.write(entry)
 
+        # Add w+entry[0] to the dictionary.
+        dictionary[dict_size] = w + entry[0]
+        dict_size += 1
 
-import os
-os.chdir('D:\\GitHub\\Comunicaciones')
-
-libro = open('libro.txt')
-
-frase = []
-texto = libro.read()
-for i in texto:
-    frase.append(i)
-
-a = comprimir(frase,diccionario_ascii)
-
-b = descomprimir(a,diccionario_ascii)
-
-#relación de compresion en esta prueba
-len(frase)*8
-
-import math
-c = int(math.log(len(diccionario_ascii))+1)
-
-(len(frase)*8)/(len(a)*c)
-#62.392 / 11768 = 5,30
+        w = entry
+    return result.getvalue()

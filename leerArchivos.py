@@ -1,6 +1,11 @@
 import time
 import string
 import test
+import huffman
+
+aux = 1
+while(aux <= 30):
+    file = open("Archivos_sin_patron/archivo"+str(aux)+".txt", "r")
 l2=[]
 aux = 1
 while(aux <= 30):
@@ -10,10 +15,11 @@ while(aux <= 30):
     x = ""
     for i in file:
         x += i;
-
     compressed = test.compress(x)
     l.append (compressed)
     decompressed = test.decompress(compressed)
+    print (decompressed)
+    huffman.funcion(x)
     l.append (decompressed)
     aux += 1
     l.append("--- %s seconds ---" % (time.time() - start_time))
