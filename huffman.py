@@ -141,19 +141,20 @@ class Huffman: # declaracion de variables para la creacion del arbol de Huffman
 
 
 l2=[]
-f = open("/Github/Comunicaciones/ResultadosHuffman.txt", "w")
-for i in range(30):
+f = open("/Github/Comunicaciones/ResultadosHuffman.txt", "a")
+for i in range(6):
     if __name__=="__main__":
         print( "INGRESAR LOS SIMBOLOS O UN MENSAJE QUE DESEA COMPRIMIR:")
         print( " " )
-        file = open("ArchivosCP/archivo"+str(i+1)+".txt", "r")
+        file = open("ArchivosCP/archivo"+str(i+25)+".txt", "r")
+        f.write("-------------ArchivoCP"+str(i+25)+"-------------\n")
         mensaje = ""
         for i in file:
             mensaje += i;
 
         print( " ")
         print( "NUMERO TOTAL DE SIMBILOS O BITS INTRODUCIDOS PARA SER ENVIADOS:  %s" % (len(mensaje)))
-        f.write("NUMERO TOTAL DE SIMBILOS O BITS INTRODUCIDOS PARA SER ENVIADOS:  %s" % (len(mensaje)))
+        f.write("NUMERO TOTAL DE SIMBILOS O BITS INTRODUCIDOS PARA SER ENVIADOS:  %s \n" % (len(mensaje)))
         print( " ")
         print( "[ 1 PASO]: NUMERO DE SIMBOLOS O BITS, ERRADOS O REPETIDOS ")
         print( " ")
@@ -173,10 +174,14 @@ for i in range(30):
         symbols=dict(zip(simbolos, probabilidad))
         print( " ")
         print( "NUMERO DE SIMBOLOS COMPRIMIDOS=",d)
+        f.write("NUMERO DE SIMBOLOS COMPRIMIDOS= "+str(d)+"\n")
+        f.write("")
         print( " ")
         print( "[ 2 PASO]:PROBABILIDAD DE CADA SIMBOLO P(S)= (numero de bit errados) / (numero total de bit enviados)")
+        f.write("[ 2 PASO]:PROBABILIDAD DE CADA SIMBOLO P(S)= (numero de bit errados) / (numero total de bit enviados) \n")
         print( " ")
         print( symbols)
+        f.write(str(symbols)+"\n")
         print( " ")
         print( "[ 3-4 PASO]: LA FUNCION [buildTree] DEL CODIGO. ORDENA LAS PROBABILIDADES DE MENOR A MAYOR PROBABILIDAD")
         print( "           Y REALIZA LAS OPERACIONES YA EXPLICADAS QUE SE REQUIEREN PARA IR ARMANDO EL ARBOL DE HUFFMAN")
@@ -194,16 +199,23 @@ for i in range(30):
         print( " ")
         print( " ")
         print( "[ 5 PASO]:CODIFICACION BINARIA USANDO EL ARBOL DE HUFFMAN:")
+        f.write("")
+        f.write("[ 5 PASO]:CODIFICACION BINARIA USANDO EL ARBOL DE HUFFMAN: \n")
         print( " ")
         for symbol in symbols:
             print( "Simbolo: %s; Codificacion: %s" % (symbol, huffman.showSymbolEncoding(symbol)))
+            f.write("Simbolo: %s; Codificacion: %s \n" % (symbol, huffman.showSymbolEncoding(symbol)))
 
         encoded = huffman.encode(mensaje)
         print( " ")
+        f.write("")
         print( "Mensaje que se esta codificando: %s;" % (mensaje))
+        f.write("Mensaje que se esta codificando: %s; \n" % (mensaje))
         print( " ")
+        f.write("")
         print( "Codificacion en bits : %s" % (encoded))
         print( " ")
+        f.write("La longitud de codigo binario es:  %s \n" % (len(encoded)))
         print( "La longitud de codigo binario es:  %s" % (len(encoded)))
 
         data = encoded
@@ -232,14 +244,17 @@ for i in range(30):
         print( " ")
         print( "Mensaje decodificado : %s " % (decoded))
 
+
         # FIN
 
 
         tiempo_final= time()
         tiempo_ejecucion= tiempo_final - tiempo_inicial
         print( " ")
+        f.write("")
+        f.write("El tiempo de transmisiOn es: "+ str(tiempo_ejecucion)+"\n")
         print( 'El tiempo de transmisiOn es:',tiempo_ejecucion)
-
+        f.write("\n\n")
 
 f.close()
 os._exit(0)
