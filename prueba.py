@@ -7,7 +7,7 @@ except:
     sys.exit(1)
 #img.show()
 #Conversión de JPG a PNG
-img.save("paisaje.png","png")
+img.save("paisaje.rgb","rgb")
 #Rotación de imágenes
 #img2 = img.rotate(45)
 #img2.show()
