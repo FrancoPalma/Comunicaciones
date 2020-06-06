@@ -17,8 +17,15 @@ except:
 ancho,alto = img.size
 print("Ancho: ",ancho)
 print("Alto: ",alto)
-diff = ImageChops.difference(img,img2)
-print(diff)
+datos_img = img.getdata()
+datos_img2= img2.getdata()
+
+dif = [abs(datos_img[x]-datos_img2[x]) for x in range(len(datos_img))]
+
+img_dif = Image.new('L', img.size)
+img_dif.putdata(dif)
+img_dif.save('dif')
+
 #Reescalar imágenes y crear thumbnails
 #size = (200,200)
 #img3 = img.resize(size)
