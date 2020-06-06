@@ -2,7 +2,7 @@ from PIL import Image
 import sys
 from PIL import ImageChops
 try:
-    img = Image.open("descarga(1).jpg")
+    img = Image.open("img2.jpg")
     img2 = Image.open("paisaje.tiff")
 except:
     print("No se pudo cargar la imagen")
