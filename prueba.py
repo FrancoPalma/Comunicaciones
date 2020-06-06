@@ -1,4 +1,4 @@
-from PIL import Image
+import Image
 import sys
 try:
     img = Image.open("descarga.jpg")
