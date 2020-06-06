@@ -54,15 +54,3 @@ def decompress(compressed):
 
         w = entry
     return result.getvalue()
-
-
-# How to use:
-f = open("README.txt", "r")
-x = ""
-for i in f:
-    x += i;
-
-compressed = compress(x)
-print (compressed)
-decompressed = decompress(compressed)
-print (decompressed)
