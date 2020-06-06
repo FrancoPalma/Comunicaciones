@@ -6,7 +6,7 @@ aux = 1
 while(aux <= 30):
     start_time = time.time()
     l=[]
-    file = open("Archivos/archivo"+str(aux)+".txt", "r")
+    file = open("ArchivosCP/archivo"+str(aux)+".txt", "r")
     x = ""
     for i in file:
         x += i;
@@ -18,4 +18,5 @@ while(aux <= 30):
     aux += 1
     l.append("--- %s seconds ---" % (time.time() - start_time))
     l2.append(l)
-print(l2)
+for i in l2:
+    print(i)
