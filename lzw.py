@@ -14,7 +14,7 @@ def comprimir(frase, diccionario):
             salida.append(indice)
             diccionario.append(wk)
             w=k
-            b = b+1 
+            b = b+1
     indice = diccionario.index(w)
     salida.append(indice)
     return salida
@@ -43,7 +43,7 @@ def descomprimir(salida,diccionario):
 
 
 import os
-os.chdir('C:\\Users\\samu_\Desktop')
+os.chdir('D:\\GitHub\\Comunicaciones')
 
 libro = open('libro.txt')
 
