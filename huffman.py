@@ -140,18 +140,20 @@ class Huffman: # declaracion de variables para la creacion del arbol de Huffman
 
 
 
-
-
-if __name__=="__main__":
-
-
-
+l2=[]
+f = open("/Github/Comunicaciones/ResultadosHuffman.txt", "w")
+for i in range(30):
+    if __name__=="__main__":
         print( "INGRESAR LOS SIMBOLOS O UN MENSAJE QUE DESEA COMPRIMIR:")
         print( " " )
-        mensaje = input()
-        print( " ")
+        file = open("ArchivosCP/archivo"+str(i+1)+".txt", "r")
+        mensaje = ""
+        for i in file:
+            mensaje += i;
 
+        print( " ")
         print( "NUMERO TOTAL DE SIMBILOS O BITS INTRODUCIDOS PARA SER ENVIADOS:  %s" % (len(mensaje)))
+        f.write("NUMERO TOTAL DE SIMBILOS O BITS INTRODUCIDOS PARA SER ENVIADOS:  %s" % (len(mensaje)))
         print( " ")
         print( "[ 1 PASO]: NUMERO DE SIMBOLOS O BITS, ERRADOS O REPETIDOS ")
         print( " ")
@@ -239,5 +241,5 @@ if __name__=="__main__":
         print( 'El tiempo de transmisiOn es:',tiempo_ejecucion)
 
 
-
+f.close()
 os._exit(0)
