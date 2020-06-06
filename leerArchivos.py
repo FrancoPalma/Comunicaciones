@@ -5,6 +5,7 @@ import test
 l2=[]
 aux = 1
 while(aux <= 30):
+    time.sleep(5)
     start_time = time.time()
     l=[]
     file = open("ArchivosCP/archivo"+str(aux)+".txt", "r")
@@ -21,12 +22,15 @@ while(aux <= 30):
 f = open("/Github/Comunicaciones/ResultadosTestCP.txt", "w")
 for i in l2:
     print(i)
-    f.write(i)
+    for e in i:
+        f.write(str(e))
+    f.write("\n")
 f.close()
 #-------------------------------------------
 l2=[]
 aux = 1
 while(aux <= 30):
+    time.sleep(5)
     start_time = time.time()
     l=[]
     file = open("ArchivosSP/archivo"+str(aux)+".txt", "r")
@@ -43,5 +47,7 @@ while(aux <= 30):
 f = open("/Github/Comunicaciones/ResultadosTestSP.txt", "w")
 for i in l2:
     print(i)
-    f.write(i)
+    for e in i:
+        f.write(str(e))
+    f.write("\n")
 f.close()
