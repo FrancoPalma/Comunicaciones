@@ -40,3 +40,16 @@ def rle_decode(data):
             decode += char * int(count)
             count = ''
     return decode
+
+aux = 1
+while(aux <= 30):
+    file = open("Archivos_con_patron/archivo_con_patron"+str(aux)+".txt", "r")
+    x = ""
+    for i in file:
+        x += i
+
+    compressed = rle_encode(x)
+    print (compressed)
+    decompressed = rle_decode(compressed)
+    print (decompressed)
+    aux += 1
