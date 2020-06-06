@@ -18,5 +18,8 @@ while(aux <= 30):
     aux += 1
     l.append("--- %s seconds ---" % (time.time() - start_time))
     l2.append(l)
+f = open("/Github/Comunicaciones/ResultadosTest.txt", "w")
 for i in l2:
     print(i)
+    f.write(i)
+f.close()
