@@ -3,7 +3,7 @@ import sys
 from PIL import ImageChops
 try:
     img = Image.open("descarga.jpg")
-    img2 = Image.open("paisaje.png")
+    img2 = Image.open("paisaje.gif")
 except:
     print("No se pudo cargar la imagen")
     sys.exit(1)
