@@ -28,14 +28,14 @@ img_dif.save('dif')
 
 print(img.histogram)
 print(img2.histogram)
-
+'''
 diff = ImageChops.difference(img,img2)
 
 if diff.getbbox():
     print("imagenes son distintas")
 else:
     print("Imagenes iguales")
-    '''
+
 #Reescalar imágenes y crear thumbnails
 #size = (200,200)
 #img3 = img.resize(size)
