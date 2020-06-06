@@ -9,7 +9,7 @@ except:
     sys.exit(1)
 #img.show()
 #Conversión de JPG a PNG
-#img.save("paisaje.gif","gif")
+img.save("paisaje.tiff","tiff")
 #Rotación de imágenes
 #img2 = img.rotate(45)
 #img2.show()
@@ -28,13 +28,14 @@ img_dif.save('dif')
 
 print(img.histogram)
 print(img2.histogram)
-'''
+
 diff = ImageChops.difference(img,img2)
 
 if diff.getbbox():
     print("imagenes son distintas")
 else:
     print("Imagenes iguales")
+    '''
 #Reescalar imágenes y crear thumbnails
 #size = (200,200)
 #img3 = img.resize(size)
