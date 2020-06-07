@@ -2,14 +2,14 @@ from PIL import Image
 import sys
 from PIL import ImageChops
 try:
-    img = Image.open("Documents\GitHub\Comunicaciones\Imagenes\jpg\img3.jpg")
+    img = Image.open("\GitHub\Comunicaciones\Imagenes\jpg\img2.jpg")
     img2 = Image.open("paisaje.tiff")
 except:
     print("No se pudo cargar la imagen")
     sys.exit(1)
 #img.show()
 #Conversión de JPG a PNG
-#img.save("paisaje.tiff","tiff")
+img.save("pata.tiff","tiff")
 #Rotación de imágenes
 #img2 = img.rotate(45)
 #img2.show()
