@@ -1,0 +1,90 @@
+El tamaño de la imagen 1 es de:6220854
+La imagen 1 se demoro: 0.04472160339355469
+
+El tamaño de la imagen 2 es de:6220854
+La imagen 2 se demoro: 0.02294015884399414
+
+El tamaño de la imagen 3 es de:6220854
+La imagen 3 se demoro: 0.023939132690429688
+
+El tamaño de la imagen 4 es de:6220854
+La imagen 4 se demoro: 0.021715879440307617
+
+El tamaño de la imagen 5 es de:6220854
+La imagen 5 se demoro: 0.02371382713317871
+
+El tamaño de la imagen 6 es de:6220854
+La imagen 6 se demoro: 0.02573537826538086
+
+El tamaño de la imagen 7 es de:6220854
+La imagen 7 se demoro: 0.022970914840698242
+
+El tamaño de la imagen 8 es de:6220854
+La imagen 8 se demoro: 0.02071094512939453
+
+El tamaño de la imagen 9 es de:6220854
+La imagen 9 se demoro: 0.03789877891540527
+
+El tamaño de la imagen 10 es de:7860054
+La imagen 10 se demoro: 0.034911155700683594
+
+El tamaño de la imagen 11 es de:6220854
+La imagen 11 se demoro: 0.025927066802978516
+
+El tamaño de la imagen 12 es de:6220854
+La imagen 12 se demoro: 0.02496194839477539
+
+El tamaño de la imagen 13 es de:6220854
+La imagen 13 se demoro: 0.02268838882446289
+
+El tamaño de la imagen 14 es de:6220854
+La imagen 14 se demoro: 0.02193903923034668
+
+El tamaño de la imagen 15 es de:6220854
+La imagen 15 se demoro: 0.02097606658935547
+
+El tamaño de la imagen 16 es de:6220854
+La imagen 16 se demoro: 0.021693944931030273
+
+El tamaño de la imagen 17 es de:8294454
+La imagen 17 se demoro: 0.025933027267456055
+
+El tamaño de la imagen 18 es de:8294454
+La imagen 18 se demoro: 0.028924226760864258
+
+El tamaño de la imagen 19 es de:8294454
+La imagen 19 se demoro: 0.02692723274230957
+
+El tamaño de la imagen 20 es de:8294454
+La imagen 20 se demoro: 0.02697467803955078
+
+El tamaño de la imagen 21 es de:8294454
+La imagen 21 se demoro: 0.026917457580566406
+
+El tamaño de la imagen 22 es de:8294454
+La imagen 22 se demoro: 0.022739648818969727
+
+El tamaño de la imagen 23 es de:8294454
+La imagen 23 se demoro: 0.03266191482543945
+
+El tamaño de la imagen 24 es de:8294454
+La imagen 24 se demoro: 0.021952152252197266
+
+El tamaño de la imagen 25 es de:6220854
+La imagen 25 se demoro: 0.02168107032775879
+
+El tamaño de la imagen 26 es de:6220854
+La imagen 26 se demoro: 0.030675649642944336
+
+El tamaño de la imagen 27 es de:6220854
+La imagen 27 se demoro: 0.021692991256713867
+
+El tamaño de la imagen 28 es de:6220854
+La imagen 28 se demoro: 0.021906375885009766
+
+El tamaño de la imagen 29 es de:6220854
+La imagen 29 se demoro: 0.022933483123779297
+
+El tamaño de la imagen 30 es de:8294454
+La imagen 30 se demoro: 0.024704933166503906
+
