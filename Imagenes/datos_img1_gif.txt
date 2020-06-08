@@ -1,0 +1,120 @@
+El tamaño de la imagen BMP 1 es de:6220854
+El tamaño de la imagen GIF 1 es de:1764188
+La diferencia es de: 4456666La imagen 1 se demoro: 0.34004878997802734 en comprimirse
+
+El tamaño de la imagen BMP 2 es de:6220854
+El tamaño de la imagen GIF 2 es de:1742178
+La diferencia es de: 4478676La imagen 2 se demoro: 0.9466192722320557 en comprimirse
+
+El tamaño de la imagen BMP 3 es de:6220854
+El tamaño de la imagen GIF 3 es de:2077325
+La diferencia es de: 4143529La imagen 3 se demoro: 0.5882606506347656 en comprimirse
+
+El tamaño de la imagen BMP 4 es de:6220854
+El tamaño de la imagen GIF 4 es de:1985285
+La diferencia es de: 4235569La imagen 4 se demoro: 0.7501218318939209 en comprimirse
+
+El tamaño de la imagen BMP 5 es de:6220854
+El tamaño de la imagen GIF 5 es de:2044869
+La diferencia es de: 4175985La imagen 5 se demoro: 0.8286499977111816 en comprimirse
+
+El tamaño de la imagen BMP 6 es de:6220854
+El tamaño de la imagen GIF 6 es de:1201417
+La diferencia es de: 5019437La imagen 6 se demoro: 0.28104329109191895 en comprimirse
+
+El tamaño de la imagen BMP 7 es de:6220854
+El tamaño de la imagen GIF 7 es de:2244733
+La diferencia es de: 3976121La imagen 7 se demoro: 0.627244234085083 en comprimirse
+
+El tamaño de la imagen BMP 8 es de:6220854
+El tamaño de la imagen GIF 8 es de:1471020
+La diferencia es de: 4749834La imagen 8 se demoro: 0.39290428161621094 en comprimirse
+
+El tamaño de la imagen BMP 9 es de:6220854
+El tamaño de la imagen GIF 9 es de:1634615
+La diferencia es de: 4586239La imagen 9 se demoro: 0.3511638641357422 en comprimirse
+
+El tamaño de la imagen BMP 10 es de:7860054
+El tamaño de la imagen GIF 10 es de:2701726
+La diferencia es de: 5158328La imagen 10 se demoro: 0.8331270217895508 en comprimirse
+
+El tamaño de la imagen BMP 11 es de:6220854
+El tamaño de la imagen GIF 11 es de:2019893
+La diferencia es de: 4200961La imagen 11 se demoro: 0.3806576728820801 en comprimirse
+
+El tamaño de la imagen BMP 12 es de:6220854
+El tamaño de la imagen GIF 12 es de:1704227
+La diferencia es de: 4516627La imagen 12 se demoro: 0.7307021617889404 en comprimirse
+
+El tamaño de la imagen BMP 13 es de:6220854
+El tamaño de la imagen GIF 13 es de:1392587
+La diferencia es de: 4828267La imagen 13 se demoro: 0.6826415061950684 en comprimirse
+
+El tamaño de la imagen BMP 14 es de:6220854
+El tamaño de la imagen GIF 14 es de:1686191
+La diferencia es de: 4534663La imagen 14 se demoro: 0.7372784614562988 en comprimirse
+
+El tamaño de la imagen BMP 15 es de:6220854
+El tamaño de la imagen GIF 15 es de:1794960
+La diferencia es de: 4425894La imagen 15 se demoro: 0.7306597232818604 en comprimirse
+
+El tamaño de la imagen BMP 16 es de:6220854
+El tamaño de la imagen GIF 16 es de:340331
+La diferencia es de: 5880523La imagen 16 se demoro: 0.2597620487213135 en comprimirse
+
+El tamaño de la imagen BMP 17 es de:8294454
+El tamaño de la imagen GIF 17 es de:1526910
+La diferencia es de: 6767544La imagen 17 se demoro: 0.6823129653930664 en comprimirse
+
+El tamaño de la imagen BMP 18 es de:8294454
+El tamaño de la imagen GIF 18 es de:1507916
+La diferencia es de: 6786538La imagen 18 se demoro: 1.088350772857666 en comprimirse
+
+El tamaño de la imagen BMP 19 es de:8294454
+El tamaño de la imagen GIF 19 es de:1986223
+La diferencia es de: 6308231La imagen 19 se demoro: 1.0630974769592285 en comprimirse
+
+El tamaño de la imagen BMP 20 es de:8294454
+El tamaño de la imagen GIF 20 es de:1307387
+La diferencia es de: 6987067La imagen 20 se demoro: 0.7154426574707031 en comprimirse
+
+El tamaño de la imagen BMP 21 es de:8294454
+El tamaño de la imagen GIF 21 es de:1196736
+La diferencia es de: 7097718La imagen 21 se demoro: 0.7479403018951416 en comprimirse
+
+El tamaño de la imagen BMP 22 es de:8294454
+El tamaño de la imagen GIF 22 es de:1113234
+La diferencia es de: 7181220La imagen 22 se demoro: 1.5693278312683105 en comprimirse
+
+El tamaño de la imagen BMP 23 es de:8294454
+El tamaño de la imagen GIF 23 es de:1521551
+La diferencia es de: 6772903La imagen 23 se demoro: 2.550569534301758 en comprimirse
+
+El tamaño de la imagen BMP 24 es de:8294454
+El tamaño de la imagen GIF 24 es de:771466
+La diferencia es de: 7522988La imagen 24 se demoro: 0.9632220268249512 en comprimirse
+
+El tamaño de la imagen BMP 25 es de:6220854
+El tamaño de la imagen GIF 25 es de:605171
+La diferencia es de: 5615683La imagen 25 se demoro: 1.2001795768737793 en comprimirse
+
+El tamaño de la imagen BMP 26 es de:6220854
+El tamaño de la imagen GIF 26 es de:1188993
+La diferencia es de: 5031861La imagen 26 se demoro: 1.6545789241790771 en comprimirse
+
+El tamaño de la imagen BMP 27 es de:6220854
+El tamaño de la imagen GIF 27 es de:1445934
+La diferencia es de: 4774920La imagen 27 se demoro: 1.2379000186920166 en comprimirse
+
+El tamaño de la imagen BMP 28 es de:6220854
+El tamaño de la imagen GIF 28 es de:144774
+La diferencia es de: 6076080La imagen 28 se demoro: 0.38224196434020996 en comprimirse
+
+El tamaño de la imagen BMP 29 es de:6220854
+El tamaño de la imagen GIF 29 es de:1650136
+La diferencia es de: 4570718La imagen 29 se demoro: 1.717813491821289 en comprimirse
+
+El tamaño de la imagen BMP 30 es de:8294454
+El tamaño de la imagen GIF 30 es de:1593984
+La diferencia es de: 6700470La imagen 30 se demoro: 1.6460611820220947 en comprimirse
+
