@@ -5,7 +5,7 @@ import test
 l2=[]
 aux = 1
 while(aux <= 30):
-    time.sleep(5)
+    time.sleep(0.1)
     start_time = time.time()
     l=[]
     file = open("ArchivosCP/archivo"+str(aux)+".txt", "r")
