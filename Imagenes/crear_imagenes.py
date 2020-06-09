@@ -71,18 +71,18 @@ for i in range(30):
     p+=1
 file.close()
 file = open("/Github/Comunicaciones/Imagenes/promediodatos.txt", "w")
-file.write("Promedio bytes BMP: %s.\n\n"%promediobmp/30)
+file.write("Promedio bytes BMP: %s.\n\n"%(promediobmp/30))
 
-file.write("Promedio bytes JPG: %s.\n"%promediojpg/30)
+file.write("Promedio bytes JPG: %s.\n"%(promediojpg/30))
 file.write("Promedio bytes de diferencia entre JPG y BMP: %s.\n"%(promediobmp/30-promediojpg/30))
-file.write("Promedio segundos en transformar BMP a JPG: %s.\n\n"%promediosegjpg/30)
+file.write("Promedio segundos en transformar BMP a JPG: %s.\n\n"%(promediosegjpg/30))
 
-file.write("Promedio bytes PNG: %s.\n"%promediopng/30)
+file.write("Promedio bytes PNG: %s.\n"%(promediopng/30))
 file.write("Promedio bytes de diferencia entre PNG y BMP: %s.\n"%(promediobmp/30-promediopng/30))
-file.write("Promedio segundos en transformar BMP a PNG: %s.\n\n"%promediosegpng/30)
+file.write("Promedio segundos en transformar BMP a PNG: %s.\n\n"%(promediosegpng/30))
 
-file.write("Promedio bytes GIF: %s.\n"%promediogif/30)
+file.write("Promedio bytes GIF: %s.\n"%(promediogif/30))
 file.write("Promedio bytes de diferencia entre GIF y BMP: %s.\n"%(promediobmp/30-promediogif/30))
-file.write("Promedio segundos en transformar BMP a GIF: %s.\n\n"%promedioseggif/30)
-filo.close()
+file.write("Promedio segundos en transformar BMP a GIF: %s.\n\n"%(promedioseggif/30))
+file.close()
 print("Fin.")
