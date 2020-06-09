@@ -1,12 +1,22 @@
-from skimage import io, color, feature
-from skimage.filters import rank
-rgbImg = io.imread(img.jpeg)
-grayImg = color.rgb2gray(rgbImg)
-print(grayImg.shape) # (667,1000), a 2 dimensional grayscale image
+from PIL import Image
+import numpy as np
+from skimage import io, color, img_as_ubyte
+from skimage.feature import greycomatrix, greycoprops
+from sklearn.metrics.cluster import entropy
+rgbImg = Image.open("img.jpeg")
+#rgbImg = io.imread('img.jpeg')
+#grayImg = img_as_ubyte(color.rgb2gray(rgbImg))
 
-glcm = feature.greycomatrix(grayImg, [1], [0, np.pi/4, np.pi/2, 3*np.pi/4])
-print(glcm.shape) # (256, 256, 1, 4)
+distances = [1, 2, 3]
+angles = [0, np.pi/4, np.pi/2, 3*np.pi/4]
+properties = ['energy', 'homogeneity']
+'''
+glcm = greycomatrix(grayImg, 
+                       distances=distances, 
+                       angles=angles,
+                       symmetric=True,
+                       normed=True)
 
-rank.entropy(glcm, disk(5)) # throws an error since entropy expects a 2-D array in its arguments
-
-rank.entropy(grayImg, disk(5)) # given an output
+feats = np.hstack([greycoprops(glcm, prop).ravel() for prop in properties])
+'''
+print(entropy(rgbImg))
