@@ -4,7 +4,6 @@ import test
 import math
 
 l2=[]
-l3 = []
 aux = 1
 while(aux <= 30):
     start_time = time.time()
@@ -16,7 +15,8 @@ while(aux <= 30):
         x += i;
     compressed = test.compress(x)
     l.append (compressed)
-    bits = 0;
+
+    bits = 0;       #total de bits
     for i in compressed:
         bits_simbolo = math.log2(i);
         if(bits_simbolo%1 != 0):
@@ -43,22 +43,13 @@ f.close()
 l2=[]
 aux = 1
 while(aux <= 30):
-<<<<<<< HEAD
     #time.sleep(5)
-=======
->>>>>>> a322b073e4fa787fd74e84d37356e433177d2a35
     start_time = time.time()
     time.sleep(0.1)
     l=[]
     file = open("ArchivosSP/archivo"+str(aux)+".txt", "r")
     x = ""
 
-    for i in file:      #entropia
-        for j in file:
-            l = 
-
-    l=[]
-    x = ""
     for i in file:
         x += i;
     compressed = test.compress(x)
