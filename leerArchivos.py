@@ -28,7 +28,7 @@ while(aux <= 30):
             bits += bits_simbolo;
         else:
             bits += bits_simbolo
-            f.write("El peso en bites es: "+str(bits)+".\n")
+    f.write("El peso en bites es: "+str(bits)+".\n")
 
     decompressed = test.decompress(compressed)
     f.write("Descomprimido es: "+str(decompressed)+".\n")
@@ -63,7 +63,7 @@ while(aux <= 30):
             bits += bits_simbolo;
         else:
             bits += bits_simbolo
-            f.write("El peso en bites es: "+str(bits)+".\n")
+    f.write("El peso en bites es: "+str(bits)+".\n")
 
     decompressed = test.decompress(compressed)
     f.write("Descomprimido es: "+str(decompressed)+".\n")

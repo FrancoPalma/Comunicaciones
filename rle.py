@@ -1,4 +1,5 @@
 import time
+import math
 
 # Build the dictionary.
 dict_size = 256
@@ -60,21 +61,51 @@ while(aux <= 30):
     time.sleep(0.1)
     compressed = rle_encode(x)
     decompressed = rle_decode(compressed)
+    f.write("ArchivoCP"+str(aux)+".\n")
+    f.write(compressed)
+    f.write("\n")
 
-    w = ""
     num_simbolos = []
     for c in compressed:
         if c in dictionary:
             num_simbolos.append(dictionary[c])
 
+    bits = 0;           #total de bits
+    for i in num_simbolos:
+        bits_simbolo = math.log2(i);
+        if(bits_simbolo%1 != 0):
+            bits_simbolo = bits_simbolo // 1;
+            bits_simbolo +=1;
+            bits += bits_simbolo;
+        else:
+            bits += bits_simbolo
 
-    f.write("ArchivoCP"+str(aux)+".\n")
-    f.write(compressed)
+    f.write("El peso en bites comprimidos es: "+str(bits)+".\n")
     f.write("\n")
+
     f.write(str(num_simbolos))
     f.write("\n")
     f.write(decompressed)
     f.write("\n")
+
+    num_simbolos = []
+    for c in decompressed:
+        if c in dictionary:
+            num_simbolos.append(dictionary[c])
+
+    bits = 0;           #total de bits
+    for i in num_simbolos:
+        bits_simbolo = math.log2(i);
+        if(bits_simbolo%1 != 0):
+            bits_simbolo = bits_simbolo // 1;
+            bits_simbolo +=1;
+            bits += bits_simbolo;
+        else:
+            bits += bits_simbolo
+
+    f.write("El peso en bites descomprimidos es: "+str(bits)+".\n")
+    f.write("\n")
+
     f.write(str((time.time()-start_time)-0.1))
     f.write("\n\n")
     aux += 1
@@ -94,9 +125,46 @@ while(aux <= 30):
     compressed = rle_encode(x)
     decompressed = rle_decode(compressed)
     f.write("ArchivoSP"+str(aux)+".\n")
+    f.write(compressed)
+    f.write("\n")
+
+    num_simbolos = []
+    for c in compressed:
+        if c in dictionary:
+            num_simbolos.append(dictionary[c])
+
+    bits = 0;           #total de bits
+    for i in num_simbolos:
+        bits_simbolo = math.log2(i);
+        if(bits_simbolo%1 != 0):
+            bits_simbolo = bits_simbolo // 1;
+            bits_simbolo +=1;
+            bits += bits_simbolo;
+        else:
+            bits += bits_simbolo
+
+    f.write("El peso en bites comprimidos es: "+str(bits)+".\n")
+    f.write("\n")
+
     f.write(decompressed)
     f.write("\n")
-    f.write(compressed)
+
+    num_simbolos = []
+    for c in decompressed:
+        if c in dictionary:
+            num_simbolos.append(dictionary[c])
+
+    bits = 0;           #total de bits
+    for i in num_simbolos:
+        bits_simbolo = math.log2(i);
+        if(bits_simbolo%1 != 0):
+            bits_simbolo = bits_simbolo // 1;
+            bits_simbolo +=1;
+            bits += bits_simbolo;
+        else:
+            bits += bits_simbolo
+
+    f.write("El peso en bites descomprimidos es: "+str(bits)+".\n")
     f.write("\n")
     f.write(str((time.time()-start_time)-0.01))
     f.write("\n\n")
