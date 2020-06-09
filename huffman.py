@@ -3,7 +3,7 @@
 # se importan las libre
 import os
 import time
-
+import math
 class Node: # declaracion de variables para crear los nodos
     # properties
     probability = 0.0 # inicializamos
@@ -137,17 +137,15 @@ class Huffman: # declaracion de variables para la creacion del arbol de Huffman
 
     #FIN DE LA DECODIFICACION ..........................................................................................................................................................
 
+a=4
 
-
-
-l2=[]
-f = open("/Github/Comunicaciones/ResultadosHuffmanSP.txt", "a")
+f = open("/Github/Comunicaciones/ResultadosHuffmanCP.txt", "a")
 for e in range(1):
     if __name__=="__main__":
         #print( "INGRESAR LOS SIMBOLOS O UN MENSAJE QUE DESEA COMPRIMIR:")
         #print( " " )
-        file = open("ArchivosSP/archivo"+str(e+30)+".txt", "r")
-        f.write("-------------ArchivoSP"+str(e+30)+"-------------\n")
+        file = open("ArchivosCP/archivo"+str(e+a)+".txt", "r")
+        f.write("-------------ArchivoSP"+str(e+a)+"-------------\n")
         mensaje = ""
         for i in file:
             mensaje += i;
@@ -162,7 +160,7 @@ for e in range(1):
         probabilidad=[]
         msm=mensaje
         d=0
-
+        entropia=0
         for i in mensaje:
             if i in msm:
                 #print( i,"=",int ( msm.count(i)))
@@ -187,9 +185,11 @@ for e in range(1):
         #print( "           Y REALIZA LAS OPERACIONES YA EXPLICADAS QUE SE REQUIEREN PARA IR ARMANDO EL ARBOL DE HUFFMAN")
         #print( " ")
 
+        for hi in probabilidad:
+            entropia+=float(float(hi)*float(math.log2((1/hi))))
 
         start_time = time.time()
-
+        time.sleep(0.01)
 
         # codificar instancia
         huffman = Huffman(symbols)
@@ -252,8 +252,9 @@ for e in range(1):
         tiempo_ejecucion= time.time() - start_time
         #print( " ")
         f.write("")
-        f.write("El tiempo de transmisiOn es: "+ str(tiempo_ejecucion)+"\n")
+        f.write("El tiempo de transmisiOn es: "+ str(tiempo_ejecucion-0.01)+"\n")
         #print( 'El tiempo de transmisiOn es:',tiempo_ejecucion)
+        f.write("La entropia es: "+str(entropia)+".\n")
         f.write("\n\n")
 f.close()
 os._exit(0)
