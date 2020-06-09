@@ -3,6 +3,10 @@ import string
 import test
 import math
 
+# Build the dictionary.
+dict_size = 256
+dictionary = dict((chr(i), i) for i in range(dict_size))
+
 aux = 1
 f = open("ResultadosTestCP.txt", "w")
 while(aux <= 30):
@@ -28,10 +32,30 @@ while(aux <= 30):
             bits += bits_simbolo;
         else:
             bits += bits_simbolo
-    f.write("El peso en bites es: "+str(bits)+".\n")
+    f.write("El peso en bits comprimidos es: "+str(bits)+".\n")
 
     decompressed = test.decompress(compressed)
     f.write("Descomprimido es: "+str(decompressed)+".\n")
+
+    num_simbolos = []
+    for c in decompressed:
+        if c in dictionary:
+            num_simbolos.append(dictionary[c])
+
+    bits = 0;           #total de bits
+    for i in num_simbolos:
+        bits_simbolo = math.log2(i);
+        if(bits_simbolo%1 != 0):
+            bits_simbolo = bits_simbolo // 1;
+            bits_simbolo +=1;
+            bits += bits_simbolo;
+        else:
+            bits += bits_simbolo
+
+    f.write(str(num_simbolos))
+    f.write("\n")
+    f.write("El peso en bites descomprimidos es: "+str(bits)+".\n")
+    f.write("\n")
     aux += 1
     f.write(" %s seconds" % ((time.time() - start_time)-0.1))
     f.write("\n\n")
@@ -67,6 +91,26 @@ while(aux <= 30):
 
     decompressed = test.decompress(compressed)
     f.write("Descomprimido es: "+str(decompressed)+".\n")
+
+    num_simbolos = []
+    for c in decompressed:
+        if c in dictionary:
+            num_simbolos.append(dictionary[c])
+
+    bits = 0;           #total de bits
+    for i in num_simbolos:
+        bits_simbolo = math.log2(i);
+        if(bits_simbolo%1 != 0):
+            bits_simbolo = bits_simbolo // 1;
+            bits_simbolo +=1;
+            bits += bits_simbolo;
+        else:
+            bits += bits_simbolo
+
+    f.write(str(num_simbolos))
+    f.write("\n")
+    f.write("El peso en bites descomprimidos es: "+str(bits)+".\n")
+    f.write("\n")
     aux += 1
     f.write(" %s seconds" % ((time.time() - start_time)-0.1))
     f.write("\n\n")
