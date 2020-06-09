@@ -1,31 +1,153 @@
-[118, 104, 110, 103, 99, 103, 110, 115, 106, 102, 107, 119, 118, 101, 110, 108, 120, 99, 101, 10]144.0pvhngcgnsjfkwvenlxce
---- 0.0007299423217773382 seconds ---
-[102, 117, 101, 103, 99, 99, 105, 112, 109, 113, 113, 101, 115, 105, 106, 119, 115, 115, 110]140.0cfuegccipmqqesijwssn--- 0.0013863086700439398 seconds ---
-[103, 110, 110, 111, 98, 122, 105, 100, 111, 111, 99, 99, 109, 113, 113, 104, 122, 99, 116]140.0hgnnobzidooccmqqhzct--- 0.0008131504058837835 seconds ---
-[112, 107, 98, 121, 107, 119, 108, 109, 111, 97, 103, 114, 115, 101, 113, 98, 271, 106]135.0zpkbykwlmoagrseqbqbj--- 0.0005766391754150335 seconds ---
-[114, 100, 110, 101, 108, 105, 119, 113, 112, 104, 99, 107, 106, 106, 100, 112, 122, 102, 97]140.0ordneliwqphckjjdpzfa--- 0.0007907390594482366 seconds ---
-[103, 108, 100, 121, 109, 121, 98, 110, 122, 116, 121, 100, 110, 115, 109, 111, 97, 121, 101]140.0dgldymybnztydnsmoaye--- 9.980201721190851e-05 seconds ---
-[122, 109, 102, 257, 115, 107, 117, 105, 105, 101, 105, 108, 116, 110, 107, 122, 104, 106]135.0bzmfzmskuiieiltnkzhj--- 0.00019373893737792414 seconds ---
-[112, 121, 115, 101, 98, 107, 105, 103, 105, 116, 103, 115, 103, 108, 116, 113, 105, 110, 105]140.0fpysebkigitgsgltqini--- 0.0009259223937988226 seconds ---
-[118, 108, 107, 117, 99, 104, 97, 117, 114, 97, 119, 98, 120, 119, 122, 105, 105, 101, 115]140.0bvlkuchaurawbxwziies--- 0.0006848812103271429 seconds ---
-[120, 107, 97, 108, 114, 110, 121, 112, 98, 101, 104, 119, 102, 98, 98, 108, 118, 262]135.0hxkalrnypbehwfbblvny--- 0.000254297256469721 seconds ---
-[122, 121, 110, 107, 109, 100, 110, 100, 101, 121, 116, 120, 109, 110, 117, 256, 102, 99]134.0rzynkmdndeytxmnurzfc--- 0.0007308959960937444 seconds ---
-[103, 117, 99, 114, 108, 120, 119, 99, 109, 119, 258, 115, 120, 116, 97, 110, 106, 97]135.0ngucrlxwcmwucsxtanja--- 0.00041546821594237726 seconds ---
-[104, 114, 113, 108, 103, 118, 109, 117, 105, 122, 103, 98, 112, 110, 117, 108, 106, 99, 98]140.0dhrqlgvmuizgbpnuljcb--- 0.0003656387329101507 seconds ---
-[117, 118, 122, 115, 114, 112, 112, 111, 107, 104, 122, 100, 117, 120, 112, 106, 98, 114, 113]140.0cuvzsrppokhzduxpjbrq--- 0.00012793540954589289 seconds ---
-[118, 120, 256, 114, 104, 117, 102, 105, 110, 106, 114, 100, 109, 97, 120, 98, 108, 101]134.0avxavrhufinjrdmaxble--- 0.0006436347961425726 seconds ---
-[109, 117, 99, 116, 97, 98, 99, 114, 116, 105, 102, 112, 109, 103, 269, 110, 105, 114]135.0tmuctabcrtifpmgmgnir--- 0.0007852554321289007 seconds ---
-[102, 98, 105, 99, 115, 98, 122, 113, 105, 114, 116, 106, 104, 121, 122, 101, 105, 121, 100]140.0zfbicsbzqirtjhyzeiyd--- 0.0006152629852294866 seconds ---
-[112, 102, 102, 104, 103, 113, 110, 104, 107, 118, 99, 119, 122, 107, 102, 111, 120, 101, 97]140.0mpffhgqnhkvcwzkfoxea--- 0.0005675792694091741 seconds ---
-[113, 110, 120, 104, 97, 106, 122, 112, 114, 106, 110, 101, 114, 114, 98, 122, 115, 113, 107]140.0oqnxhajzprjnerrbzsqk--- 0.00017251968383788507 seconds ---
-[111, 115, 119, 98, 102, 105, 98, 120, 105, 103, 118, 98, 118, 109, 111, 108, 106, 107, 104]140.0eoswbfibxigvbvmoljkh--- 0.0007974147796630804 seconds ---
-[113, 112, 101, 100, 100, 122, 115, 120, 120, 114, 120, 256, 111, 113, 120, 108, 113, 98]134.0wqpeddzsxxrxwqoqxlqb--- 0.0002409458160400335 seconds ---
-[117, 109, 103, 107, 121, 98, 112, 114, 107, 108, 98, 256, 107, 113, 114, 104, 116, 103]134.0kumgkybprklbkukqrhtg--- 0.0004519462585449163 seconds ---
-[119, 103, 106, 116, 110, 104, 118, 122, 100, 110, 109, 116, 117, 105, 257, 117, 98, 116]135.0hwgjtnhvzdnmtuiwgubt--- 0.0009385585784912054 seconds ---
-[104, 113, 114, 110, 122, 100, 262, 109, 121, 98, 110, 110, 117, 104, 111, 117, 106, 118]135.0bhqrnzdddmybnnuhoujv--- 0.00016942024230956476 seconds ---
-[102, 101, 97, 101, 99, 100, 118, 108, 106, 119, 122, 111, 103, 100, 109, 114, 103, 104, 120]140.0wfeaecdvljwzogdmrghx--- 0.0005983352661132757 seconds ---
-[107, 105, 103, 118, 117, 119, 117, 113, 108, 109, 120, 99, 108, 118, 114, 111, 99, 103, 99]140.0ikigvuwuqlmxclvrocgc--- 0.0007418632507324163 seconds ---
-[100, 120, 122, 109, 122, 116, 116, 111, 98, 116, 97, 114, 104, 115, 109, 105, 101, 110, 117]140.0vdxzmzttobtarhsmienu--- 0.0007301807403564398 seconds ---
-[97, 107, 121, 117, 119, 102, 104, 105, 101, 119, 108, 121, 111, 116, 116, 108, 116, 118, 115]140.0oakyuwfhiewlyottltvs--- 5.388259887689761e-06 seconds ---
-[122, 114, 105, 120, 119, 104, 105, 103, 120, 98, 119, 108, 111, 106, 118, 101, 99, 104, 106]140.0dzrixwhigxbwlojvechj--- 0.00016679763793944757 seconds ---
-[105, 121, 113, 117, 118, 121, 103, 113, 98, 103, 103, 107, 117, 114, 98, 98, 117, 99, 110]140.0eiyquvygqbggkurbbucn--- 0.0010048389434814398 seconds ---
+Archivo1
+El archivo comprimido es: [112, 118, 104, 110, 103, 99, 103, 110, 115, 106, 102, 107, 119, 118, 101, 110, 108, 120, 99, 101]
+Descomprimido es: pvhngcgnsjfkwvenlxce.
+ 4.6873092651361636e-05 seconds
+
+Archivo2
+El archivo comprimido es: [99, 102, 117, 101, 103, 99, 99, 105, 112, 109, 113, 113, 101, 115, 105, 106, 119, 115, 115, 110]
+Descomprimido es: cfuegccipmqqesijwssn.
+ 0.0004481315612792913 seconds
+
+Archivo3
+El archivo comprimido es: [104, 103, 110, 110, 111, 98, 122, 105, 100, 111, 111, 99, 99, 109, 113, 113, 104, 122, 99, 116]
+Descomprimido es: hgnnobzidooccmqqhzct.
+ 0.0006252765655517523 seconds
+
+Archivo4
+El archivo comprimido es: [122, 112, 107, 98, 121, 107, 119, 108, 109, 111, 97, 103, 114, 115, 101, 113, 98, 271, 106]
+Descomprimido es: zpkbykwlmoagrseqbqbj.
+ 0.0004157066345214788 seconds
+
+Archivo5
+El archivo comprimido es: [111, 114, 100, 110, 101, 108, 105, 119, 113, 112, 104, 99, 107, 106, 106, 100, 112, 122, 102, 97]
+Descomprimido es: ordneliwqphckjjdpzfa.
+ 0.00017442703247069757 seconds
+
+Archivo6
+El archivo comprimido es: [100, 103, 108, 100, 121, 109, 121, 98, 110, 122, 116, 121, 100, 110, 115, 109, 111, 97, 121, 101]
+Descomprimido es: dgldymybnztydnsmoaye.
+ 0.0002817153930664007 seconds
+
+Archivo7
+El archivo comprimido es: [98, 122, 109, 102, 257, 115, 107, 117, 105, 105, 101, 105, 108, 116, 110, 107, 122, 104, 106]
+Descomprimido es: bzmfzmskuiieiltnkzhj.
+ 0.0006226539611816351 seconds
+
+Archivo8
+El archivo comprimido es: [102, 112, 121, 115, 101, 98, 107, 105, 103, 105, 116, 103, 115, 103, 108, 116, 113, 105, 110, 105]
+Descomprimido es: fpysebkigitgsgltqini.
+ 0.0008083820343017523 seconds
+
+Archivo9
+El archivo comprimido es: [98, 118, 108, 107, 117, 99, 104, 97, 117, 114, 97, 119, 98, 120, 119, 122, 105, 105, 101, 115]
+Descomprimido es: bvlkuchaurawbxwziies.
+ 0.00023736953735351007 seconds
+
+Archivo10
+El archivo comprimido es: [104, 120, 107, 97, 108, 114, 110, 121, 112, 98, 101, 104, 119, 102, 98, 98, 108, 118, 262]
+Descomprimido es: hxkalrnypbehwfbblvny.
+ 0.0009211540222167913 seconds
+
+Archivo11
+El archivo comprimido es: [114, 122, 121, 110, 107, 109, 100, 110, 100, 101, 121, 116, 120, 109, 110, 117, 256, 102, 99]
+El peso en bites es: 120.0.
+Descomprimido es: rzynkmdndeytxmnurzfc.
+ 3.0040740966741364e-06 seconds
+
+Archivo12
+El archivo comprimido es: [110, 103, 117, 99, 114, 108, 120, 119, 99, 109, 119, 258, 115, 120, 116, 97, 110, 106, 97]
+Descomprimido es: ngucrlxwcmwucsxtanja.
+ 0.0007468700408935491 seconds
+
+Archivo13
+El archivo comprimido es: [100, 104, 114, 113, 108, 103, 118, 109, 117, 105, 122, 103, 98, 112, 110, 117, 108, 106, 99, 98]
+Descomprimido es: dhrqlgvmuizgbpnuljcb.
+ 0.0007258892059326116 seconds
+
+Archivo14
+El archivo comprimido es: [99, 117, 118, 122, 115, 114, 112, 112, 111, 107, 104, 122, 100, 117, 120, 112, 106, 98, 114, 113]
+Descomprimido es: cuvzsrppokhzduxpjbrq.
+ 0.0017851829528808538 seconds
+
+Archivo15
+El archivo comprimido es: [97, 118, 120, 256, 114, 104, 117, 102, 105, 110, 106, 114, 100, 109, 97, 120, 98, 108, 101]
+El peso en bites es: 29.0.
+Descomprimido es: avxavrhufinjrdmaxble.
+ 0.00011434555053710382 seconds
+
+Archivo16
+El archivo comprimido es: [116, 109, 117, 99, 116, 97, 98, 99, 114, 116, 105, 102, 112, 109, 103, 269, 110, 105, 114]
+Descomprimido es: tmuctabcrtifpmgmgnir.
+ 0.0006760597229003851 seconds
+
+Archivo17
+El archivo comprimido es: [122, 102, 98, 105, 99, 115, 98, 122, 113, 105, 114, 116, 106, 104, 121, 122, 101, 105, 121, 100]
+Descomprimido es: zfbicsbzqirtjhyzeiyd.
+ 0.00014152526855468195 seconds
+
+Archivo18
+El archivo comprimido es: [109, 112, 102, 102, 104, 103, 113, 110, 104, 107, 118, 99, 119, 122, 107, 102, 111, 120, 101, 97]
+Descomprimido es: mpffhgqnhkvcwzkfoxea.
+ 7.786750793456476e-05 seconds
+
+Archivo19
+El archivo comprimido es: [111, 113, 110, 120, 104, 97, 106, 122, 112, 114, 106, 110, 101, 114, 114, 98, 122, 115, 113, 107]
+Descomprimido es: oqnxhajzprjnerrbzsqk.
+ 0.0007144451141357366 seconds
+
+Archivo20
+El archivo comprimido es: [101, 111, 115, 119, 98, 102, 105, 98, 120, 105, 103, 118, 98, 118, 109, 111, 108, 106, 107, 104]
+Descomprimido es: eoswbfibxigvbvmoljkh.
+ 0.0017351150512695257 seconds
+
+Archivo21
+El archivo comprimido es: [119, 113, 112, 101, 100, 100, 122, 115, 120, 120, 114, 120, 256, 111, 113, 120, 108, 113, 98]
+El peso en bites es: 92.0.
+Descomprimido es: wqpeddzsxxrxwqoqxlqb.
+ 0.001724624633789057 seconds
+
+Archivo22
+El archivo comprimido es: [107, 117, 109, 103, 107, 121, 98, 112, 114, 107, 108, 98, 256, 107, 113, 114, 104, 116, 103]
+El peso en bites es: 92.0.
+Descomprimido es: kumgkybprklbkukqrhtg.
+ 0.001768732070922846 seconds
+
+Archivo23
+El archivo comprimido es: [104, 119, 103, 106, 116, 110, 104, 118, 122, 100, 110, 109, 116, 117, 105, 257, 117, 98, 116]
+Descomprimido es: hwgjtnhvzdnmtuiwgubt.
+ 0.0007320880889892523 seconds
+
+Archivo24
+El archivo comprimido es: [98, 104, 113, 114, 110, 122, 100, 262, 109, 121, 98, 110, 110, 117, 104, 111, 117, 106, 118]
+Descomprimido es: bhqrnzdddmybnnuhoujv.
+ 0.002814435958862299 seconds
+
+Archivo25
+El archivo comprimido es: [119, 102, 101, 97, 101, 99, 100, 118, 108, 106, 119, 122, 111, 103, 100, 109, 114, 103, 104, 120]
+Descomprimido es: wfeaecdvljwzogdmrghx.
+ 0.0007647514343261663 seconds
+
+Archivo26
+El archivo comprimido es: [105, 107, 105, 103, 118, 117, 119, 117, 113, 108, 109, 120, 99, 108, 118, 114, 111, 99, 103, 99]
+Descomprimido es: ikigvuwuqlmxclvrocgc.
+ 0.0006958484649658148 seconds
+
+Archivo27
+El archivo comprimido es: [118, 100, 120, 122, 109, 122, 116, 116, 111, 98, 116, 97, 114, 104, 115, 109, 105, 101, 110, 117]
+Descomprimido es: vdxzmzttobtarhsmienu.
+ 0.0007308959960937444 seconds
+
+Archivo28
+El archivo comprimido es: [111, 97, 107, 121, 117, 119, 102, 104, 105, 101, 119, 108, 121, 111, 116, 116, 108, 116, 118, 115]
+Descomprimido es: oakyuwfhiewlyottltvs.
+ 0.0006445884704589788 seconds
+
+Archivo29
+El archivo comprimido es: [100, 122, 114, 105, 120, 119, 104, 105, 103, 120, 98, 119, 108, 111, 106, 118, 101, 99, 104, 106]
+Descomprimido es: dzrixwhigxbwlojvechj.
+ 0.0007905006408691351 seconds
+
+Archivo30
+El archivo comprimido es: [101, 105, 121, 113, 117, 118, 121, 103, 113, 98, 103, 103, 107, 117, 114, 98, 98, 117, 99, 110]
+Descomprimido es: eiyquvygqbggkurbbucn.
+ 0.0007294654846191351 seconds
