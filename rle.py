@@ -1,3 +1,4 @@
+import time
 def rle_encode(data):
     encoding = ''
     prev_char = ''
@@ -42,14 +43,45 @@ def rle_decode(data):
     return decode
 
 aux = 1
+f = open("/Github/Comunicaciones/ResultadosRLECP.txt", "w")
 while(aux <= 30):
-    file = open("Archivos_con_patron/archivo_con_patron"+str(aux)+".txt", "r")
+    file = open("ArchivosCP/archivo"+str(aux)+".txt", "r")
     x = ""
     for i in file:
         x += i
-
+    file.close()
+    start_time = time.time()
+    time.sleep(0.1)
     compressed = rle_encode(x)
-    print (compressed)
     decompressed = rle_decode(compressed)
-    print (decompressed)
+    f.write("ArchivoCP"+str(aux)+".\n")
+    f.write(decompressed)
+    f.write("\n")
+    f.write(compressed)
+    f.write("\n")
+    f.write(str((time.time()-start_time)-0.1))
+    f.write("\n\n")
     aux += 1
+f.close()
+
+f = open("/Github/Comunicaciones/ResultadosRLESP.txt", "w")
+aux = 1
+while(aux <= 30):
+    file = open("ArchivosSP/archivo"+str(aux)+".txt", "r")
+    x = ""
+    for i in file:
+        x += i
+    file.close()
+    start_time = time.time()
+    time.sleep(0.01)
+    compressed = rle_encode(x)
+    decompressed = rle_decode(compressed)
+    f.write("ArchivoSP"+str(aux)+".\n")
+    f.write(decompressed)
+    f.write("\n")
+    f.write(compressed)
+    f.write("\n")
+    f.write(str((time.time()-start_time)-0.01))
+    f.write("\n\n")
+    aux += 1
+f.close()
