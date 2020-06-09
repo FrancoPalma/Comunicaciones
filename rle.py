@@ -1,4 +1,9 @@
 import time
+
+# Build the dictionary.
+dict_size = 256
+dictionary = dict((chr(i), i) for i in range(dict_size))
+
 def rle_encode(data):
     encoding = ''
     prev_char = ''
@@ -43,7 +48,8 @@ def rle_decode(data):
     return decode
 
 aux = 1
-f = open("/Github/Comunicaciones/ResultadosRLECP.txt", "w")
+#f = open("/Github/Comunicaciones/ResultadosRLECP.txt", "w")
+f = open("ResultadosRLECP.txt", "w")
 while(aux <= 30):
     file = open("ArchivosCP/archivo"+str(aux)+".txt", "r")
     x = ""
@@ -54,17 +60,28 @@ while(aux <= 30):
     time.sleep(0.1)
     compressed = rle_encode(x)
     decompressed = rle_decode(compressed)
+
+    w = ""
+    num_simbolos = []
+    for c in compressed:
+        if c in dictionary:
+            num_simbolos.append(dictionary[c])
+
+
     f.write("ArchivoCP"+str(aux)+".\n")
-    f.write(decompressed)
-    f.write("\n")
     f.write(compressed)
+    f.write("\n")
+    f.write(str(num_simbolos))
+    f.write("\n")
+    f.write(decompressed)
     f.write("\n")
     f.write(str((time.time()-start_time)-0.1))
     f.write("\n\n")
     aux += 1
 f.close()
 
-f = open("/Github/Comunicaciones/ResultadosRLESP.txt", "w")
+#f = open("/Github/Comunicaciones/ResultadosRLESP.txt", "w")
+f = open("ResultadosRLESP.txt", "w")
 aux = 1
 while(aux <= 30):
     file = open("ArchivosSP/archivo"+str(aux)+".txt", "r")
