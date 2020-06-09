@@ -1,180 +1,270 @@
 Archivo1
 El archivo comprimido es: [101, 99, 102, 100, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: ecfdecfdecfdecfdecfd.
- 0.0008315086364746038 seconds
+[101, 99, 102, 100, 101, 99, 102, 100, 101, 99, 102, 100, 101, 99, 102, 100, 101, 99, 102, 100]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0021592617034912054 seconds
 
 Archivo2
 El archivo comprimido es: [108, 108, 100, 109, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: lldmlldmlldmlldmlldm.
- 0.001240634918212885 seconds
+[108, 108, 100, 109, 108, 108, 100, 109, 108, 108, 100, 109, 108, 108, 100, 109, 108, 108, 100, 109]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0004660129547119085 seconds
 
 Archivo3
 El archivo comprimido es: [122, 112, 117, 105, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: zpuizpuizpuizpuizpui.
- 0.0002416610717773382 seconds
+[122, 112, 117, 105, 122, 112, 117, 105, 122, 112, 117, 105, 122, 112, 117, 105, 122, 112, 117, 105]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0005012989044189398 seconds
 
 Archivo4
 El archivo comprimido es: [111, 119, 107, 100, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: owkdowkdowkdowkdowkd.
- 0.0017282009124755804 seconds
+[111, 119, 107, 100, 111, 119, 107, 100, 111, 119, 107, 100, 111, 119, 107, 100, 111, 119, 107, 100]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.00014081001281737726 seconds
 
 Archivo5
 El archivo comprimido es: [99, 102, 117, 122, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: cfuzcfuzcfuzcfuzcfuz.
- 0.0017291545867919866 seconds
+[99, 102, 117, 122, 99, 102, 117, 122, 99, 102, 117, 122, 99, 102, 117, 122, 99, 102, 117, 122]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.00030364990234374445 seconds
 
 Archivo6
 El archivo comprimido es: [100, 111, 120, 100, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: doxddoxddoxddoxddoxd.
- 0.0007316112518310491 seconds
+[100, 111, 120, 100, 100, 111, 120, 100, 100, 111, 120, 100, 100, 111, 120, 100, 100, 111, 120, 100]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.00046458244323729914 seconds
 
 Archivo7
 El archivo comprimido es: [110, 100, 107, 98, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: ndkbndkbndkbndkbndkb.
- 0.0007828712463378851 seconds
+[110, 100, 107, 98, 110, 100, 107, 98, 110, 100, 107, 98, 110, 100, 107, 98, 110, 100, 107, 98]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.00035514831542968195 seconds
 
 Archivo8
 El archivo comprimido es: [106, 100, 107, 99, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: jdkcjdkcjdkcjdkcjdkc.
- 0.0007337570190429632 seconds
+[106, 100, 107, 99, 106, 100, 107, 99, 106, 100, 107, 99, 106, 100, 107, 99, 106, 100, 107, 99]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.000906610488891596 seconds
 
 Archivo9
 El archivo comprimido es: [121, 108, 109, 120, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: ylmxylmxylmxylmxylmx.
- 0.0007583141326904241 seconds
+[121, 108, 109, 120, 121, 108, 109, 120, 121, 108, 109, 120, 121, 108, 109, 120, 121, 108, 109, 120]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0004610061645507757 seconds
 
 Archivo10
 El archivo comprimido es: [101, 113, 115, 113, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: eqsqeqsqeqsqeqsqeqsq.
- 0.000700616836547846 seconds
+[101, 113, 115, 113, 101, 113, 115, 113, 101, 113, 115, 113, 101, 113, 115, 113, 101, 113, 115, 113]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0005122661590576116 seconds
 
 Archivo11
 El archivo comprimido es: [104, 110, 122, 114, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: hnzrhnzrhnzrhnzrhnzr.
- 0.0008102893829345648 seconds
+[104, 110, 122, 114, 104, 110, 122, 114, 104, 110, 122, 114, 104, 110, 122, 114, 104, 110, 122, 114]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0003961563110351507 seconds
 
 Archivo12
 El archivo comprimido es: [98, 111, 108, 98, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: bolbbolbbolbbolbbolb.
- 0.0033668518066406194 seconds
+[98, 111, 108, 98, 98, 111, 108, 98, 98, 111, 108, 98, 98, 111, 108, 98, 98, 111, 108, 98]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.00013175010681151789 seconds
 
 Archivo13
 El archivo comprimido es: [113, 113, 104, 98, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: qqhbqqhbqqhbqqhbqqhb.
- 0.0007280349731445257 seconds
+[113, 113, 104, 98, 113, 113, 104, 98, 113, 113, 104, 98, 113, 113, 104, 98, 113, 113, 104, 98]
+El peso en bites descomprimidos es: 140.0.
+
+ 4.8542022705072574e-05 seconds
 
 Archivo14
 El archivo comprimido es: [111, 107, 99, 110, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: okcnokcnokcnokcnokcn.
- 0.0007306575775146429 seconds
+[111, 107, 99, 110, 111, 107, 99, 110, 111, 107, 99, 110, 111, 107, 99, 110, 111, 107, 99, 110]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0005032062530517523 seconds
 
 Archivo15
 El archivo comprimido es: [117, 113, 106, 122, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: uqjzuqjzuqjzuqjzuqjz.
- 0.0007301807403564398 seconds
+[117, 113, 106, 122, 117, 113, 106, 122, 117, 113, 106, 122, 117, 113, 106, 122, 117, 113, 106, 122]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.000181818008422846 seconds
 
 Archivo16
 El archivo comprimido es: [102, 119, 103, 112, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: fwgpfwgpfwgpfwgpfwgp.
- 0.0002447605133056585 seconds
+[102, 119, 103, 112, 102, 119, 103, 112, 102, 119, 103, 112, 102, 119, 103, 112, 102, 119, 103, 112]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.00015940666198729914 seconds
 
 Archivo17
 El archivo comprimido es: [101, 109, 116, 101, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: emteemteemteemteemte.
- 0.001259231567382807 seconds
+[101, 109, 116, 101, 101, 109, 116, 101, 101, 109, 116, 101, 101, 109, 116, 101, 101, 109, 116, 101]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0004595756530761663 seconds
 
 Archivo18
 El archivo comprimido es: [98, 105, 118, 108, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: bivlbivlbivlbivlbivl.
- 0.000757837295532221 seconds
+[98, 105, 118, 108, 98, 105, 118, 108, 98, 105, 118, 108, 98, 105, 118, 108, 98, 105, 118, 108]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.00015225410461425226 seconds
 
 Archivo19
 El archivo comprimido es: [108, 109, 108, 106, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: lmljlmljlmljlmljlmlj.
- 0.0006994247436523382 seconds
+[108, 109, 108, 106, 108, 109, 108, 106, 108, 109, 108, 106, 108, 109, 108, 106, 108, 109, 108, 106]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0006071567535400335 seconds
 
 Archivo20
 El archivo comprimido es: [101, 109, 99, 111, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: emcoemcoemcoemcoemco.
- 0.0007299423217773382 seconds
+[101, 109, 99, 111, 101, 109, 99, 111, 101, 109, 99, 111, 101, 109, 99, 111, 101, 109, 99, 111]
+El peso en bites descomprimidos es: 140.0.
+
+ 6.103515624994449e-06 seconds
 
 Archivo21
 El archivo comprimido es: [109, 105, 104, 109, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: mihmmihmmihmmihmmihm.
- 0.001728916168212885 seconds
+[109, 105, 104, 109, 109, 105, 104, 109, 109, 105, 104, 109, 109, 105, 104, 109, 109, 105, 104, 109]
+El peso en bites descomprimidos es: 140.0.
+
+ 2.9468536376947574e-05 seconds
 
 Archivo22
 El archivo comprimido es: [98, 113, 121, 114, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: bqyrbqyrbqyrbqyrbqyr.
- 0.0007301807403564398 seconds
+[98, 113, 121, 114, 98, 113, 121, 114, 98, 113, 121, 114, 98, 113, 121, 114, 98, 113, 121, 114]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0003510951995849554 seconds
 
 Archivo23
 El archivo comprimido es: [110, 108, 101, 118, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: nlevnlevnlevnlevnlev.
- 0.0007637977600097601 seconds
+[110, 108, 101, 118, 110, 108, 101, 118, 110, 108, 101, 118, 110, 108, 101, 118, 110, 108, 101, 118]
+El peso en bites descomprimidos es: 140.0.
+
+ 7.309913635253351e-05 seconds
 
 Archivo24
 El archivo comprimido es: [113, 118, 108, 103, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: qvlgqvlgqvlgqvlgqvlg.
- 0.0037402153015136663 seconds
+[113, 118, 108, 103, 113, 118, 108, 103, 113, 118, 108, 103, 113, 118, 108, 103, 113, 118, 108, 103]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.000143671035766596 seconds
 
 Archivo25
 El archivo comprimido es: [113, 104, 100, 102, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: qhdfqhdfqhdfqhdfqhdf.
- 0.0007299423217773382 seconds
+[113, 104, 100, 102, 113, 104, 100, 102, 113, 104, 100, 102, 113, 104, 100, 102, 113, 104, 100, 102]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0004476547241210882 seconds
 
 Archivo26
 El archivo comprimido es: [106, 121, 118, 113, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: jyvqjyvqjyvqjyvqjyvq.
- 0.0012344360351562444 seconds
+[106, 121, 118, 113, 106, 121, 118, 113, 106, 121, 118, 113, 106, 121, 118, 113, 106, 121, 118, 113]
+El peso en bites descomprimidos es: 140.0.
+
+ 7.786750793456476e-05 seconds
 
 Archivo27
 El archivo comprimido es: [110, 120, 107, 106, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: nxkjnxkjnxkjnxkjnxkj.
- 0.0007394790649414007 seconds
+[110, 120, 107, 106, 110, 120, 107, 106, 110, 120, 107, 106, 110, 120, 107, 106, 110, 120, 107, 106]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.00010552406311034601 seconds
 
 Archivo28
 El archivo comprimido es: [106, 112, 97, 121, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: jpayjpayjpayjpayjpay.
- 0.0007320880889892523 seconds
+[106, 112, 97, 121, 106, 112, 97, 121, 106, 112, 97, 121, 106, 112, 97, 121, 106, 112, 97, 121]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0009292602539062444 seconds
 
 Archivo29
 El archivo comprimido es: [112, 104, 108, 115, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: phlsphlsphlsphlsphls.
- 0.000728988647460932 seconds
+[112, 104, 108, 115, 112, 104, 108, 115, 112, 104, 108, 115, 112, 104, 108, 115, 112, 104, 108, 115]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.0005907058715820257 seconds
 
 Archivo30
 El archivo comprimido es: [120, 101, 110, 102, 256, 258, 260, 259, 257, 263, 258]
-El peso en bites es: 90.0.
+El peso en bits comprimidos es: 90.0.
 Descomprimido es: xenfxenfxenfxenfxenf.
- 0.0007390022277831976 seconds
+[120, 101, 110, 102, 120, 101, 110, 102, 120, 101, 110, 102, 120, 101, 110, 102, 120, 101, 110, 102]
+El peso en bites descomprimidos es: 140.0.
+
+ 0.004856491088867182 seconds
 
