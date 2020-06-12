@@ -1,150 +1,150 @@
 Archivo1
-El archivo comprimido es: [101, 99, 102, 100, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: ecfdecfdecfdecfdecfd.
-0.09025072097778321
+TIEMPO:0.09072827339172364
 
 Archivo2
-El archivo comprimido es: [108, 108, 100, 109, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: lldmlldmlldmlldmlldm.
-0.09024523735046387
+TIEMPO:0.09124611854553223
 
 Archivo3
-El archivo comprimido es: [122, 112, 117, 105, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: zpuizpuizpuizpuizpui.
-0.09031414031982422
+TIEMPO:0.09074257850646973
 
 Archivo4
-El archivo comprimido es: [111, 119, 107, 100, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: owkdowkdowkdowkdowkd.
-0.09073018074035645
+TIEMPO:0.09128211975097657
 
 Archivo5
-El archivo comprimido es: [99, 102, 117, 122, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: cfuzcfuzcfuzcfuzcfuz.
-0.09076117515563965
+TIEMPO:0.0917286777496338
 
 Archivo6
-El archivo comprimido es: [100, 111, 120, 100, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: doxddoxddoxddoxddoxd.
-0.09073256492614747
+TIEMPO:0.0907978916168213
 
 Archivo7
-El archivo comprimido es: [110, 100, 107, 98, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: ndkbndkbndkbndkbndkb.
-0.09069394111633301
+TIEMPO:0.09175681114196778
 
 Archivo8
-El archivo comprimido es: [106, 100, 107, 99, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: jdkcjdkcjdkcjdkcjdkc.
-0.09076618194580079
+TIEMPO:0.09172796249389649
 
 Archivo9
-El archivo comprimido es: [121, 108, 109, 120, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: ylmxylmxylmxylmxylmx.
-0.09185909271240235
+TIEMPO:0.09133004188537598
 
 Archivo10
-El archivo comprimido es: [101, 113, 115, 113, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: eqsqeqsqeqsqeqsqeqsq.
-0.09122013092041016
+TIEMPO:0.09077929496765137
 
 Archivo11
-El archivo comprimido es: [104, 110, 122, 114, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: hnzrhnzrhnzrhnzrhnzr.
-0.09014390945434571
+TIEMPO:0.0908148193359375
 
 Archivo12
-El archivo comprimido es: [98, 111, 108, 98, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: bolbbolbbolbbolbbolb.
-0.09073113441467286
+TIEMPO:0.09024166107177735
 
 Archivo13
-El archivo comprimido es: [113, 113, 104, 98, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: qqhbqqhbqqhbqqhbqqhb.
-0.09069918632507325
+TIEMPO:0.09024023056030274
 
 Archivo14
-El archivo comprimido es: [111, 107, 99, 110, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: okcnokcnokcnokcnokcn.
-0.09072922706604004
+TIEMPO:0.09124683380126954
 
 Archivo15
-El archivo comprimido es: [117, 113, 106, 122, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: uqjzuqjzuqjzuqjzuqjz.
-0.09076093673706055
+TIEMPO:0.09025072097778321
 
 Archivo16
-El archivo comprimido es: [102, 119, 103, 112, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: fwgpfwgpfwgpfwgpfwgp.
-0.09024595260620118
+TIEMPO:0.09172796249389649
 
 Archivo17
-El archivo comprimido es: [101, 109, 116, 101, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: emteemteemteemteemte.
-0.09077142715454102
+TIEMPO:0.09172462463378907
 
 Archivo18
-El archivo comprimido es: [98, 105, 118, 108, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: bivlbivlbivlbivlbivl.
-0.09076570510864258
+TIEMPO:0.09073113441467286
 
 Archivo19
-El archivo comprimido es: [108, 109, 108, 106, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: lmljlmljlmljlmljlmlj.
-0.09072636604309083
+TIEMPO:0.09472846031188965
 
 Archivo20
-El archivo comprimido es: [101, 109, 99, 111, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: emcoemcoemcoemcoemco.
-0.09070037841796875
+TIEMPO:0.0907230281829834
 
 Archivo21
-El archivo comprimido es: [109, 105, 104, 109, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: mihmmihmmihmmihmmihm.
-0.090250244140625
+TIEMPO:0.09072946548461915
 
 Archivo22
-El archivo comprimido es: [98, 113, 121, 114, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: bqyrbqyrbqyrbqyrbqyr.
-0.09024333000183106
+TIEMPO:0.09073041915893555
 
 Archivo23
-El archivo comprimido es: [110, 108, 101, 118, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: nlevnlevnlevnlevnlev.
-0.09013031959533692
+TIEMPO:0.09073041915893555
 
 Archivo24
-El archivo comprimido es: [113, 118, 108, 103, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: qvlgqvlgqvlgqvlgqvlg.
-0.09172700881958008
+TIEMPO:0.0902495288848877
 
 Archivo25
-El archivo comprimido es: [113, 104, 100, 102, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: qhdfqhdfqhdfqhdfqhdf.
-0.09076498985290528
+TIEMPO:0.09080170631408692
 
 Archivo26
-El archivo comprimido es: [106, 121, 118, 113, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: jyvqjyvqjyvqjyvqjyvq.
-0.09069775581359864
+TIEMPO:0.0909202003479004
 
 Archivo27
-El archivo comprimido es: [110, 120, 107, 106, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: nxkjnxkjnxkjnxkjnxkj.
-0.09072994232177735
+TIEMPO:0.09098600387573243
 
 Archivo28
-El archivo comprimido es: [106, 112, 97, 121, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: jpayjpayjpayjpayjpay.
-0.09073161125183106
+TIEMPO:0.09141634941101075
 
 Archivo29
-El archivo comprimido es: [112, 104, 108, 115, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: phlsphlsphlsphlsphls.
-0.090752592086792
+TIEMPO:0.09062432289123536
 
 Archivo30
-El archivo comprimido es: [120, 101, 110, 102, 256, 258, 260, 259, 257, 263, 258]
+Numero de simbolos comprimidos: 11
 Descomprimido es: xenfxenfxenfxenfxenf.
-0.09070872306823731
+TIEMPO:0.09099458694458008
 

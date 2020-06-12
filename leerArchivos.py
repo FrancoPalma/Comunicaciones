@@ -21,8 +21,7 @@ while(aux <= 30):
     for i in file:
         x += i;
     compressed = test.compress(x)
-    f.write("El archivo comprimido es: "+str(compressed)+"\n")
-
+    f.write("Numero de simbolos comprimidos: "+ str(len(compressed))+"\n")
 
     decompressed = test.decompress(compressed)
     f.write("Descomprimido es: "+str(decompressed)+".\n")
@@ -33,6 +32,7 @@ while(aux <= 30):
             num_simbolos.append(dictionary[c])
 
 
+    f.write("TIEMPO:" )
     f.write(str((time.time()-start_time)-0.01))
     f.write("\n\n")
     aux+=1
@@ -53,7 +53,7 @@ while(aux <= 30):
     for i in file:
         x += i;
     compressed = test.compress(x)
-    f.write("El archivo comprimido es: "+str(compressed)+"\n")
+    f.write("Numero de simbolos comprimidos: "+ str(len(compressed))+"\n")
 
 
 
@@ -75,8 +75,7 @@ while(aux <= 30):
         else:
             bits += bits_simbolo"""
 
-    f.write("Cantidad de simbolos de descomprimidos es: "+str(len(num_simbolos))+".\n")
-    f.write("\n")
+    f.write("TIEMPO:" )
     f.write(str((time.time()-start_time)-0.01))
     f.write("\n\n")
     aux+=1
