@@ -31,7 +31,7 @@ for i in range(30):
     file.write ("El tamaño de la imagen CP BMP "+str(p)+" es de:"+str(os.stat("imgcp_"+str(p)+".bmp").st_size)+" bytes.\n")
     promediobmp+=os.stat("imgcp_"+str(p)+".bmp").st_size
     file.write ("El tamaño de la imagen JPG "+str(p)+" es de:"+str(os.stat("imgcp_"+str(p)+".jpeg").st_size)+" bytes.\n")
-    file3.write ("("+str(round(os.stat("imgcp_"+str(p)+".jpeg").st_size/1048576,3))+"), ")
+    file3.write ("("+str(round(os.stat("imgcp_"+str(p)+".jpeg").st_size/1024,3))+"), ")
     promediojpg+=os.stat("imgcp_"+str(p)+".jpeg").st_size
     file.write("La diferencia es de: "+str(os.stat("imgcp_"+str(p)+".bmp").st_size-os.stat("imgcp_"+str(p)+".jpeg").st_size)+" bytes.\n")
     file4.write(str((os.stat("imgcp_"+str(p)+".bmp").st_size-os.stat("imgcp_"+str(p)+".jpeg").st_size)/1024)+"\n")
@@ -56,7 +56,7 @@ for i in range(30):
     file.write ("El tamaño de la imagen BMP "+str(p)+" es de:"+str(os.stat("imgcp_"+str(p)+".bmp").st_size)+" bytes.\n")
     file.write ("El tamaño de la imagen PNG "+str(p)+" es de:"+str(os.stat("imgcp_"+str(p)+".png").st_size)+" bytes.\n")
     promediopng+=os.stat("imgcp_"+str(p)+".png").st_size
-    file3.write ("("+str(round(os.stat("imgcp_"+str(p)+".png").st_size/1048576,3))+"), ")
+    file3.write ("("+str(round(os.stat("imgcp_"+str(p)+".png").st_size/1024,3))+"), ")
     file4.write(str((os.stat("imgcp_"+str(p)+".bmp").st_size-os.stat("imgcp_"+str(p)+".png").st_size)/1024)+"\n")
     file5.write("("+str(round((tiempo*1000),2))+"), ")
     file.write("La diferencia es de: "+str(os.stat("imgcp_"+str(p)+".bmp").st_size-os.stat("imgcp_"+str(p)+".png").st_size)+" bytes.\n")
@@ -83,7 +83,7 @@ for i in range(30):
     promediogif=os.stat("imgcp_"+str(p)+".gif").st_size
     file.write("La diferencia es de: "+str(os.stat("imgcp_"+str(p)+".bmp").st_size-os.stat("imgcp_"+str(p)+".gif").st_size)+" bytes.\n")
     file.write("La imagen "+str(p)+" se demoro: %s en comprimirse" %tiempo)
-    file3.write ("("+str(round(os.stat("imgcp_"+str(p)+".gif").st_size/1048576,3))+"), ")
+    file3.write ("("+str(round(os.stat("imgcp_"+str(p)+".gif").st_size/1024,3))+"), ")
     file4.write(str((os.stat("imgcp_"+str(p)+".bmp").st_size-os.stat("imgcp_"+str(p)+".gif").st_size)/1024)+"\n")
     file5.write("("+str(round((tiempo*1000),2))+"), ")
     file.write(".\n\n")
