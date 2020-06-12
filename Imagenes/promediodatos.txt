@@ -1,0 +1,14 @@
+Promedio bytes BMP: 6897574.0.
+
+Promedio bytes JPG: 248011.3.
+Promedio bytes de diferencia entre JPG y BMP: 6649562.7.
+Promedio segundos en transformar BMP a JPG: 0.025952514012654623.
+
+Promedio bytes PNG: 1967528.1333333333.
+Promedio bytes de diferencia entre PNG y BMP: 4930045.866666667.
+Promedio segundos en transformar BMP a PNG: 1.0911566336949667.
+
+Promedio bytes GIF: 53132.8.
+Promedio bytes de diferencia entre GIF y BMP: 6844441.2.
+Promedio segundos en transformar BMP a GIF: 0.0.
+
