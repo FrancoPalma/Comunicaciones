@@ -137,15 +137,15 @@ class Huffman: # declaracion de variables para la creacion del arbol de Huffman
 
     #FIN DE LA DECODIFICACION ..........................................................................................................................................................
 
-a=30
+a=7
 
-f = open("/Github/Comunicaciones/ResultadosHuffmanSP.txt", "a")
+f = open("/Github/Comunicaciones/ResultadosHuffmanCP.txt", "a")
 for e in range(1):
     if __name__=="__main__":
         #print( "INGRESAR LOS SIMBOLOS O UN MENSAJE QUE DESEA COMPRIMIR:")
         #print( " " )
-        file = open("ArchivosSP/archivo"+str(e+a)+".txt", "r")
-        f.write("-------------ArchivoSP"+str(e+a)+"-------------\n")
+        file = open("ArchivosCP/archivo"+str(e+a)+".txt", "r")
+        f.write("-------------ArchivoCP"+str(e+a)+"-------------\n")
         mensaje = ""
         for i in file:
             mensaje += i;

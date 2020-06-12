@@ -92,19 +92,20 @@ El tiempo de transmisiOn es: 0.00021814346313476542
 La entropia es: 1.5.
 
 
--------------ArchivoCP6-------------
+-------------ArchivoCP7-------------
 NUMERO TOTAL DE SIMBILOS O BITS INTRODUCIDOS PARA SER ENVIADOS:  20
-NUMERO DE SIMBOLOS COMPRIMIDOS= 3
+NUMERO DE SIMBOLOS COMPRIMIDOS= 4
 [ 2 PASO]:PROBABILIDAD DE CADA SIMBOLO P(S)= (numero de bit errados) / (numero total de bit enviados)
-{'d': 0.5, 'o': 0.25, 'x': 0.25}
+{'n': 0.25, 'd': 0.25, 'k': 0.25, 'b': 0.25}
 [ 5 PASO]:CODIFICACION BINARIA USANDO EL ARBOL DE HUFFMAN:
-Simbolo: d; Codificacion: 0
-Simbolo: o; Codificacion: 10
-Simbolo: x; Codificacion: 11
-Mensaje que se esta codificando: doxddoxddoxddoxddoxd;
-La longitud de codigo binario es:  30
-El tiempo de transmisiOn es: 0.0008976364135742185
-La entropia es: 1.5.
+Simbolo: n; Codificacion: 00
+Simbolo: d; Codificacion: 01
+Simbolo: k; Codificacion: 10
+Simbolo: b; Codificacion: 11
+Mensaje que se esta codificando: ndkbndkbndkbndkbndkb;
+La longitud de codigo binario es:  40
+El tiempo de transmisiOn es: 0.0008900070190429685
+La entropia es: 2.0.
 
 
 -------------ArchivoCP8-------------
