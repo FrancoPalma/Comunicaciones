@@ -1,0 +1,150 @@
+El tamaño de la imagen BMP 1 es de:6220854 bytes.
+El tamaño de la imagen JPG 1 es de:168885 bytes.
+La diferencia es de: 6051969 bytes.
+La imagen 1 se demoro: 0.05186152458190918 en comprimirse.
+
+El tamaño de la imagen BMP 2 es de:6220854 bytes.
+El tamaño de la imagen JPG 2 es de:323503 bytes.
+La diferencia es de: 5897351 bytes.
+La imagen 2 se demoro: 0.3254528045654297 en comprimirse.
+
+El tamaño de la imagen BMP 3 es de:6220854 bytes.
+El tamaño de la imagen JPG 3 es de:251118 bytes.
+La diferencia es de: 5969736 bytes.
+La imagen 3 se demoro: 0.034906864166259766 en comprimirse.
+
+El tamaño de la imagen BMP 4 es de:6220854 bytes.
+El tamaño de la imagen JPG 4 es de:198611 bytes.
+La diferencia es de: 6022243 bytes.
+La imagen 4 se demoro: 0.0428767204284668 en comprimirse.
+
+El tamaño de la imagen BMP 5 es de:6220854 bytes.
+El tamaño de la imagen JPG 5 es de:358053 bytes.
+La diferencia es de: 5862801 bytes.
+La imagen 5 se demoro: 0.04288506507873535 en comprimirse.
+
+El tamaño de la imagen BMP 6 es de:6220854 bytes.
+El tamaño de la imagen JPG 6 es de:522764 bytes.
+La diferencia es de: 5698090 bytes.
+La imagen 6 se demoro: 0.048868417739868164 en comprimirse.
+
+El tamaño de la imagen BMP 7 es de:6220854 bytes.
+El tamaño de la imagen JPG 7 es de:414952 bytes.
+La diferencia es de: 5805902 bytes.
+La imagen 7 se demoro: 0.05086684226989746 en comprimirse.
+
+El tamaño de la imagen BMP 8 es de:6220854 bytes.
+El tamaño de la imagen JPG 8 es de:81555 bytes.
+La diferencia es de: 6139299 bytes.
+La imagen 8 se demoro: 0.03091597557067871 en comprimirse.
+
+El tamaño de la imagen BMP 9 es de:6220854 bytes.
+El tamaño de la imagen JPG 9 es de:696704 bytes.
+La diferencia es de: 5524150 bytes.
+La imagen 9 se demoro: 0.042885541915893555 en comprimirse.
+
+El tamaño de la imagen BMP 10 es de:7860054 bytes.
+El tamaño de la imagen JPG 10 es de:462048 bytes.
+La diferencia es de: 7398006 bytes.
+La imagen 10 se demoro: 0.03690004348754883 en comprimirse.
+
+El tamaño de la imagen BMP 11 es de:6220854 bytes.
+El tamaño de la imagen JPG 11 es de:265611 bytes.
+La diferencia es de: 5955243 bytes.
+La imagen 11 se demoro: 0.0329127311706543 en comprimirse.
+
+El tamaño de la imagen BMP 12 es de:6220854 bytes.
+El tamaño de la imagen JPG 12 es de:287807 bytes.
+La diferencia es de: 5933047 bytes.
+La imagen 12 se demoro: 0.03490567207336426 en comprimirse.
+
+El tamaño de la imagen BMP 13 es de:6220854 bytes.
+El tamaño de la imagen JPG 13 es de:238827 bytes.
+La diferencia es de: 5982027 bytes.
+La imagen 13 se demoro: 0.1575784683227539 en comprimirse.
+
+El tamaño de la imagen BMP 14 es de:6220854 bytes.
+El tamaño de la imagen JPG 14 es de:231317 bytes.
+La diferencia es de: 5989537 bytes.
+La imagen 14 se demoro: 0.028953075408935547 en comprimirse.
+
+El tamaño de la imagen BMP 15 es de:6220854 bytes.
+El tamaño de la imagen JPG 15 es de:143520 bytes.
+La diferencia es de: 6077334 bytes.
+La imagen 15 se demoro: 0.02593088150024414 en comprimirse.
+
+El tamaño de la imagen BMP 16 es de:6220854 bytes.
+El tamaño de la imagen JPG 16 es de:85982 bytes.
+La diferencia es de: 6134872 bytes.
+La imagen 16 se demoro: 0.029917240142822266 en comprimirse.
+
+El tamaño de la imagen BMP 17 es de:8294454 bytes.
+El tamaño de la imagen JPG 17 es de:281446 bytes.
+La diferencia es de: 8013008 bytes.
+La imagen 17 se demoro: 0.035904884338378906 en comprimirse.
+
+El tamaño de la imagen BMP 18 es de:8294454 bytes.
+El tamaño de la imagen JPG 18 es de:207466 bytes.
+La diferencia es de: 8086988 bytes.
+La imagen 18 se demoro: 0.059830427169799805 en comprimirse.
+
+El tamaño de la imagen BMP 19 es de:8294454 bytes.
+El tamaño de la imagen JPG 19 es de:244029 bytes.
+La diferencia es de: 8050425 bytes.
+La imagen 19 se demoro: 0.03786802291870117 en comprimirse.
+
+El tamaño de la imagen BMP 20 es de:8294454 bytes.
+El tamaño de la imagen JPG 20 es de:237966 bytes.
+La diferencia es de: 8056488 bytes.
+La imagen 20 se demoro: 0.03282499313354492 en comprimirse.
+
+El tamaño de la imagen BMP 21 es de:8294454 bytes.
+El tamaño de la imagen JPG 21 es de:217652 bytes.
+La diferencia es de: 8076802 bytes.
+La imagen 21 se demoro: 0.032912492752075195 en comprimirse.
+
+El tamaño de la imagen BMP 22 es de:8294454 bytes.
+El tamaño de la imagen JPG 22 es de:105613 bytes.
+La diferencia es de: 8188841 bytes.
+La imagen 22 se demoro: 0.02593064308166504 en comprimirse.
+
+El tamaño de la imagen BMP 23 es de:8294454 bytes.
+El tamaño de la imagen JPG 23 es de:283400 bytes.
+La diferencia es de: 8011054 bytes.
+La imagen 23 se demoro: 0.06237602233886719 en comprimirse.
+
+El tamaño de la imagen BMP 24 es de:8294454 bytes.
+El tamaño de la imagen JPG 24 es de:83207 bytes.
+La diferencia es de: 8211247 bytes.
+La imagen 24 se demoro: 0.036940813064575195 en comprimirse.
+
+El tamaño de la imagen BMP 25 es de:6220854 bytes.
+El tamaño de la imagen JPG 25 es de:121884 bytes.
+La diferencia es de: 6098970 bytes.
+La imagen 25 se demoro: 0.03586316108703613 en comprimirse.
+
+El tamaño de la imagen BMP 26 es de:6220854 bytes.
+El tamaño de la imagen JPG 26 es de:175855 bytes.
+La diferencia es de: 6044999 bytes.
+La imagen 26 se demoro: 0.034682273864746094 en comprimirse.
+
+El tamaño de la imagen BMP 27 es de:6220854 bytes.
+El tamaño de la imagen JPG 27 es de:193547 bytes.
+La diferencia es de: 6027307 bytes.
+La imagen 27 se demoro: 0.030903339385986328 en comprimirse.
+
+El tamaño de la imagen BMP 28 es de:6220854 bytes.
+El tamaño de la imagen JPG 28 es de:63514 bytes.
+La diferencia es de: 6157340 bytes.
+La imagen 28 se demoro: 0.03389239311218262 en comprimirse.
+
+El tamaño de la imagen BMP 29 es de:6220854 bytes.
+El tamaño de la imagen JPG 29 es de:233824 bytes.
+La diferencia es de: 5987030 bytes.
+La imagen 29 se demoro: 0.0359036922454834 en comprimirse.
+
+El tamaño de la imagen BMP 30 es de:8294454 bytes.
+El tamaño de la imagen JPG 30 es de:259679 bytes.
+La diferencia es de: 8034775 bytes.
+La imagen 30 se demoro: 0.03690028190612793 en comprimirse.
+

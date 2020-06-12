@@ -26,7 +26,7 @@ tiempo=0
 for i in range(30):
 
 
-    img_aux = io.imread('img'+str(p)+'.bmp')
+    img_aux = io.imread('imgcp_'+str(p)+'.bmp')
     entropia = entropy(img_aux)
     file2.write("La entropia de la imagen BMP ")
     file2.write(str(p))
@@ -34,8 +34,8 @@ for i in range(30):
     file2.write(str(entropia))
     file2.write("\n")
 
-    
-    img_aux = io.imread('img'+str(p)+'.jpeg')
+
+    img_aux = io.imread('imgcp_'+str(p)+'.jpeg')
     entropia = entropy(img_aux)
     file.write("La entropia de la imagen JPEG ")
     file.write(str(p))
@@ -52,8 +52,8 @@ p=1
 file = open("entropia_img"+str(p)+"_png.txt", "w")
 for i in range(30):
 
-    
-    img_aux = io.imread('img'+str(p)+'.png')
+
+    img_aux = io.imread('imgcp_'+str(p)+'.png')
     entropia = entropy(img_aux)
     file.write("La entropia de la imagen PNG ")
     file.write(str(p))
@@ -62,7 +62,7 @@ for i in range(30):
     file.write("\n")
 
 
-    
+
     p+=1
 file.close()
 
@@ -71,7 +71,7 @@ file = open("entropia_img"+str(p)+"_gif.txt", "w")
 for i in range(30):
 
 
-    img_aux = io.imread('img'+str(p)+'.gif')
+    img_aux = io.imread('imgcp_'+str(p)+'.gif')
     entropia = entropy(img_aux)
     file.write("La entropia de la imagen GIF ")
     file.write(str(p))
@@ -85,4 +85,3 @@ file.close()
 
 
 print("Fin.")
-
