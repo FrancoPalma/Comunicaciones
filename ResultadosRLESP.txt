@@ -1,272 +1,272 @@
 ArchivoSP1.
 1p1v1h1n1g1c1g1n1s1j1f1k1w1v1e1n1l1x1c1e1
 
-El peso en bites comprimidos es: 270.0.
+Cantidad de simbolos comprimidos es: 42.
 
 pvhngcgnsjfkwvenlxce
 
-El peso en bites descomprimidos es: 144.0.
+Cantidad de simbolos de descomprimidos es: 21.
 
-2.097129821777323e-05
+0.0009684467315673826
 
 ArchivoSP2.
 1c1f1u1e1g2c1i1p1m2q1e1s1i1j1w2s1n
-El peso en bites comprimidos es: 221.0.
+Cantidad de simbolos comprimidos es: 34.
 
 cfuegccipmqqesijwssn
-El peso en bites descomprimidos es: 140.0.
-
-0.0009369754791259764
-
-ArchivoSP3.
-1h1g2n1o1b1z1i1d2o2c1m2q1h1z1c1t
-El peso en bites comprimidos es: 208.0.
-
-hgnnobzidooccmqqhzct
-El peso en bites descomprimidos es: 140.0.
-
-0.0009672546386718748
-
-ArchivoSP4.
-1z1p1k1b1y1k1w1l1m1o1a1g1r1s1e1q1b1q1b1j
-El peso en bites comprimidos es: 260.0.
-
-zpkbykwlmoagrseqbqbj
-El peso en bites descomprimidos es: 140.0.
-
-0.0009724998474121092
-
-ArchivoSP5.
-1o1r1d1n1e1l1i1w1q1p1h1c1k2j1d1p1z1f1a
-El peso en bites comprimidos es: 247.0.
-
-ordneliwqphckjjdpzfa
-El peso en bites descomprimidos es: 140.0.
-
-0.0009713077545166014
-
-ArchivoSP6.
-1d1g1l1d1y1m1y1b1n1z1t1y1d1n1s1m1o1a1y1e
-El peso en bites comprimidos es: 260.0.
-
-dgldymybnztydnsmoaye
-El peso en bites descomprimidos es: 140.0.
-
-0.0009694004058837889
-
-ArchivoSP7.
-1b1z1m1f1z1m1s1k1u2i1e1i1l1t1n1k1z1h1j
-El peso en bites comprimidos es: 247.0.
-
-bzmfzmskuiieiltnkzhj
-El peso en bites descomprimidos es: 140.0.
-
-0.0009705924987792967
-
-ArchivoSP8.
-1f1p1y1s1e1b1k1i1g1i1t1g1s1g1l1t1q1i1n1i
-El peso en bites comprimidos es: 260.0.
-
-fpysebkigitgsgltqini
-El peso en bites descomprimidos es: 140.0.
-
-0.0010015869140624998
-
-ArchivoSP9.
-1b1v1l1k1u1c1h1a1u1r1a1w1b1x1w1z2i1e1s
-El peso en bites comprimidos es: 247.0.
-
-bvlkuchaurawbxwziies
-El peso en bites descomprimidos es: 140.0.
-
-0.0009424591064453123
-
-ArchivoSP10.
-1h1x1k1a1l1r1n1y1p1b1e1h1w1f2b1l1v1n1y
-El peso en bites comprimidos es: 247.0.
-
-hxkalrnypbehwfbblvny
-El peso en bites descomprimidos es: 140.0.
-
-0.0009670162200927732
-
-ArchivoSP11.
-1r1z1y1n1k1m1d1n1d1e1y1t1x1m1n1u1r1z1f1c
-El peso en bites comprimidos es: 260.0.
-
-rzynkmdndeytxmnurzfc
-El peso en bites descomprimidos es: 140.0.
-
-0.00025867462158203104
-
-ArchivoSP12.
-1n1g1u1c1r1l1x1w1c1m1w1u1c1s1x1t1a1n1j1a
-El peso en bites comprimidos es: 260.0.
-
-ngucrlxwcmwucsxtanja
-El peso en bites descomprimidos es: 140.0.
-
-0.00028156280517578104
-
-ArchivoSP13.
-1d1h1r1q1l1g1v1m1u1i1z1g1b1p1n1u1l1j1c1b
-El peso en bites comprimidos es: 260.0.
-
-dhrqlgvmuizgbpnuljcb
-El peso en bites descomprimidos es: 140.0.
-
-1.7871856689452917e-05
-
-ArchivoSP14.
-1c1u1v1z1s1r2p1o1k1h1z1d1u1x1p1j1b1r1q
-El peso en bites comprimidos es: 247.0.
-
-cuvzsrppokhzduxpjbrq
-El peso en bites descomprimidos es: 140.0.
-
-0.0006472969055175779
-
-ArchivoSP15.
-1a1v1x1a1v1r1h1u1f1i1n1j1r1d1m1a1x1b1l1e
-El peso en bites comprimidos es: 260.0.
-
-avxavrhufinjrdmaxble
-El peso en bites descomprimidos es: 140.0.
-
-0.000666847229003906
-
-ArchivoSP16.
-1t1m1u1c1t1a1b1c1r1t1i1f1p1m1g1m1g1n1i1r
-El peso en bites comprimidos es: 260.0.
-
-tmuctabcrtifpmgmgnir
-El peso en bites descomprimidos es: 140.0.
-
-9.225845336914042e-05
-
-ArchivoSP17.
-1z1f1b1i1c1s1b1z1q1i1r1t1j1h1y1z1e1i1y1d
-El peso en bites comprimidos es: 260.0.
-
-zfbicsbzqirtjhyzeiyd
-El peso en bites descomprimidos es: 140.0.
-
-0.0007386112213134764
-
-ArchivoSP18.
-1m1p2f1h1g1q1n1h1k1v1c1w1z1k1f1o1x1e1a
-El peso en bites comprimidos es: 247.0.
-
-mpffhgqnhkvcwzkfoxea
-El peso en bites descomprimidos es: 140.0.
-
-0.0006518268585205076
-
-ArchivoSP19.
-1o1q1n1x1h1a1j1z1p1r1j1n1e2r1b1z1s1q1k
-El peso en bites comprimidos es: 247.0.
-
-oqnxhajzprjnerrbzsqk
-El peso en bites descomprimidos es: 140.0.
-
-0.0008442306518554685
-
-ArchivoSP20.
-1e1o1s1w1b1f1i1b1x1i1g1v1b1v1m1o1l1j1k1h
-El peso en bites comprimidos es: 260.0.
-
-eoswbfibxigvbvmoljkh
-El peso en bites descomprimidos es: 140.0.
-
-7.381439208984167e-06
-
-ArchivoSP21.
-1w1q1p1e2d1z1s2x1r1x1w1q1o1q1x1l1q1b
-El peso en bites comprimidos es: 234.0.
-
-wqpeddzsxxrxwqoqxlqb
-El peso en bites descomprimidos es: 140.0.
-
-0.000937690734863281
-
-ArchivoSP22.
-1k1u1m1g1k1y1b1p1r1k1l1b1k1u1k1q1r1h1t1g
-El peso en bites comprimidos es: 260.0.
-
-kumgkybprklbkukqrhtg
-El peso en bites descomprimidos es: 140.0.
+Cantidad de simbolos de descomprimidos es: 20.
 
 0.0009701156616210935
 
+ArchivoSP3.
+1h1g2n1o1b1z1i1d2o2c1m2q1h1z1c1t
+Cantidad de simbolos comprimidos es: 32.
+
+hgnnobzidooccmqqhzct
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009722614288330076
+
+ArchivoSP4.
+1z1p1k1b1y1k1w1l1m1o1a1g1r1s1e1q1b1q1b1j
+Cantidad de simbolos comprimidos es: 40.
+
+zpkbykwlmoagrseqbqbj
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009727382659912107
+
+ArchivoSP5.
+1o1r1d1n1e1l1i1w1q1p1h1c1k2j1d1p1z1f1a
+Cantidad de simbolos comprimidos es: 38.
+
+ordneliwqphckjjdpzfa
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009672546386718748
+
+ArchivoSP6.
+1d1g1l1d1y1m1y1b1n1z1t1y1d1n1s1m1o1a1y1e
+Cantidad de simbolos comprimidos es: 40.
+
+dgldymybnztydnsmoaye
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009713077545166014
+
+ArchivoSP7.
+1b1z1m1f1z1m1s1k1u2i1e1i1l1t1n1k1z1h1j
+Cantidad de simbolos comprimidos es: 38.
+
+bzmfzmskuiieiltnkzhj
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.000969877243041992
+
+ArchivoSP8.
+1f1p1y1s1e1b1k1i1g1i1t1g1s1g1l1t1q1i1n1i
+Cantidad de simbolos comprimidos es: 40.
+
+fpysebkigitgsgltqini
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009729766845703123
+
+ArchivoSP9.
+1b1v1l1k1u1c1h1a1u1r1a1w1b1x1w1z2i1e1s
+Cantidad de simbolos comprimidos es: 38.
+
+bvlkuchaurawbxwziies
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009708309173583982
+
+ArchivoSP10.
+1h1x1k1a1l1r1n1y1p1b1e1h1w1f2b1l1v1n1y
+Cantidad de simbolos comprimidos es: 38.
+
+hxkalrnypbehwfbblvny
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009727382659912107
+
+ArchivoSP11.
+1r1z1y1n1k1m1d1n1d1e1y1t1x1m1n1u1r1z1f1c
+Cantidad de simbolos comprimidos es: 40.
+
+rzynkmdndeytxmnurzfc
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009670162200927732
+
+ArchivoSP12.
+1n1g1u1c1r1l1x1w1c1m1w1u1c1s1x1t1a1n1j1a
+Cantidad de simbolos comprimidos es: 40.
+
+ngucrlxwcmwucsxtanja
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009717845916748045
+
+ArchivoSP13.
+1d1h1r1q1l1g1v1m1u1i1z1g1b1p1n1u1l1j1c1b
+Cantidad de simbolos comprimidos es: 40.
+
+dhrqlgvmuizgbpnuljcb
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.000969877243041992
+
+ArchivoSP14.
+1c1u1v1z1s1r2p1o1k1h1z1d1u1x1p1j1b1r1q
+Cantidad de simbolos comprimidos es: 38.
+
+cuvzsrppokhzduxpjbrq
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009717845916748045
+
+ArchivoSP15.
+1a1v1x1a1v1r1h1u1f1i1n1j1r1d1m1a1x1b1l1e
+Cantidad de simbolos comprimidos es: 40.
+
+avxavrhufinjrdmaxble
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009694004058837889
+
+ArchivoSP16.
+1t1m1u1c1t1a1b1c1r1t1i1f1p1m1g1m1g1n1i1r
+Cantidad de simbolos comprimidos es: 40.
+
+tmuctabcrtifpmgmgnir
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.000969877243041992
+
+ArchivoSP17.
+1z1f1b1i1c1s1b1z1q1i1r1t1j1h1y1z1e1i1y1d
+Cantidad de simbolos comprimidos es: 40.
+
+zfbicsbzqirtjhyzeiyd
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009710693359374998
+
+ArchivoSP18.
+1m1p2f1h1g1q1n1h1k1v1c1w1z1k1f1o1x1e1a
+Cantidad de simbolos comprimidos es: 38.
+
+mpffhgqnhkvcwzkfoxea
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009713077545166014
+
+ArchivoSP19.
+1o1q1n1x1h1a1j1z1p1r1j1n1e2r1b1z1s1q1k
+Cantidad de simbolos comprimidos es: 38.
+
+oqnxhajzprjnerrbzsqk
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009772682189941404
+
+ArchivoSP20.
+1e1o1s1w1b1f1i1b1x1i1g1v1b1v1m1o1l1j1k1h
+Cantidad de simbolos comprimidos es: 40.
+
+eoswbfibxigvbvmoljkh
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.000968208312988281
+
+ArchivoSP21.
+1w1q1p1e2d1z1s2x1r1x1w1q1o1q1x1l1q1b
+Cantidad de simbolos comprimidos es: 36.
+
+wqpeddzsxxrxwqoqxlqb
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.000964393615722656
+
+ArchivoSP22.
+1k1u1m1g1k1y1b1p1r1k1l1b1k1u1k1q1r1h1t1g
+Cantidad de simbolos comprimidos es: 40.
+
+kumgkybprklbkukqrhtg
+Cantidad de simbolos de descomprimidos es: 20.
+
+0.0009763145446777342
+
 ArchivoSP23.
 1h1w1g1j1t1n1h1v1z1d1n1m1t1u1i1w1g1u1b1t
-El peso en bites comprimidos es: 260.0.
+Cantidad de simbolos comprimidos es: 40.
 
 hwgjtnhvzdnmtuiwgubt
-El peso en bites descomprimidos es: 140.0.
+Cantidad de simbolos de descomprimidos es: 20.
 
-0.0005090141296386717
+0.0009710693359374998
 
 ArchivoSP24.
 1b1h1q1r1n1z3d1m1y1b2n1u1h1o1u1j1v
-El peso en bites comprimidos es: 221.0.
+Cantidad de simbolos comprimidos es: 34.
 
 bhqrnzdddmybnnuhoujv
-El peso en bites descomprimidos es: 140.0.
+Cantidad de simbolos de descomprimidos es: 20.
 
-0.0010056400299072264
+0.0009684467315673826
 
 ArchivoSP25.
 1w1f1e1a1e1c1d1v1l1j1w1z1o1g1d1m1r1g1h1x
-El peso en bites comprimidos es: 260.0.
+Cantidad de simbolos comprimidos es: 40.
 
 wfeaecdvljwzogdmrghx
-El peso en bites descomprimidos es: 140.0.
+Cantidad de simbolos de descomprimidos es: 20.
 
-3.456115722656229e-05
+0.0009715461730957029
 
 ArchivoSP26.
 1i1k1i1g1v1u1w1u1q1l1m1x1c1l1v1r1o1c1g1c
-El peso en bites comprimidos es: 260.0.
+Cantidad de simbolos comprimidos es: 40.
 
 ikigvuwuqlmxclvrocgc
-El peso en bites descomprimidos es: 140.0.
+Cantidad de simbolos de descomprimidos es: 20.
 
-0.00016831398010253885
+0.0009696388244628904
 
 ArchivoSP27.
 1v1d1x1z1m1z2t1o1b1t1a1r1h1s1m1i1e1n1u
-El peso en bites comprimidos es: 247.0.
+Cantidad de simbolos comprimidos es: 38.
 
 vdxzmzttobtarhsmienu
-El peso en bites descomprimidos es: 140.0.
+Cantidad de simbolos de descomprimidos es: 20.
 
-3.837585449218729e-05
+0.0009701156616210935
 
 ArchivoSP28.
 1o1a1k1y1u1w1f1h1i1e1w1l1y1o2t1l1t1v1s
-El peso en bites comprimidos es: 247.0.
+Cantidad de simbolos comprimidos es: 38.
 
 oakyuwfhiewlyottltvs
-El peso en bites descomprimidos es: 140.0.
+Cantidad de simbolos de descomprimidos es: 20.
 
-0.0007479095458984373
+0.0009705924987792967
 
 ArchivoSP29.
 1d1z1r1i1x1w1h1i1g1x1b1w1l1o1j1v1e1c1h1j
-El peso en bites comprimidos es: 260.0.
+Cantidad de simbolos comprimidos es: 40.
 
 dzrixwhigxbwlojvechj
-El peso en bites descomprimidos es: 140.0.
+Cantidad de simbolos de descomprimidos es: 20.
 
-0.0009617710113525389
+0.0009724998474121092
 
 ArchivoSP30.
 1e1i1y1q1u1v1y1g1q1b2g1k1u1r2b1u1c1n
-El peso en bites comprimidos es: 234.0.
+Cantidad de simbolos comprimidos es: 36.
 
 eiyquvygqbggkurbbucn
-El peso en bites descomprimidos es: 140.0.
+Cantidad de simbolos de descomprimidos es: 20.
 
-0.0009703540802001951
+0.0009713077545166014
 
