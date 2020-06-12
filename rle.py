@@ -166,7 +166,7 @@ while(aux <= 30):
 
     f.write("Cantidad de simbolos de descomprimidos es: "+str(len(num_simbolos))+".\n")
     f.write("\n")
-    f.write(str(((time.time()-start_time)-0.01))*1000)
+    f.write(str((time.time()-start_time)-0.01))
     f.write("\n\n")
     aux += 1
 f.close()
