@@ -21,27 +21,16 @@ promediosegjpg=0
 promediosegpng=0
 promedioseggif=0
 tiempo=0
-
-
+file2.write("La entropia de la imagen BMP \n")
+file.write("La entropia de la imagen JPEG \n")
 for i in range(30):
-
-
     img_aux = io.imread('imgcp_'+str(p)+'.bmp')
     entropia = entropy(img_aux)
-    file2.write("La entropia de la imagen BMP ")
-    file2.write(str(p))
-    file2.write(" es de: ")
-    file2.write(str(entropia))
-    file2.write("\n")
-
+    file2.write("("+str(round(entropia,2))+"), ")
 
     img_aux = io.imread('imgcp_'+str(p)+'.jpeg')
     entropia = entropy(img_aux)
-    file.write("La entropia de la imagen JPEG ")
-    file.write(str(p))
-    file.write(" es de: ")
-    file.write(str(entropia))
-    file.write("\n")
+    file.write("("+str(round(entropia,2))+"), ")
 
 
     p+=1
@@ -50,36 +39,21 @@ file2.close()
 
 p=1
 file = open("entropia_img"+str(p)+"_png.txt", "w")
+file.write("La entropia de la imagen PNG \n")
 for i in range(30):
-
-
     img_aux = io.imread('imgcp_'+str(p)+'.png')
     entropia = entropy(img_aux)
-    file.write("La entropia de la imagen PNG ")
-    file.write(str(p))
-    file.write(" es de: ")
-    file.write(str(entropia))
-    file.write("\n")
-
-
-
+    file.write("("+str(round(entropia,2))+"), ")
     p+=1
 file.close()
 
 p=1
 file = open("entropia_img"+str(p)+"_gif.txt", "w")
+file.write("La entropia de la imagen GIF \n")
 for i in range(30):
-
-
     img_aux = io.imread('imgcp_'+str(p)+'.gif')
     entropia = entropy(img_aux)
-    file.write("La entropia de la imagen GIF ")
-    file.write(str(p))
-    file.write(" es de: ")
-    file.write(str(entropia))
-    file.write("\n")
-
-
+    file.write("("+str(round(entropia,2))+"), ")
     p+=1
 file.close()
 
