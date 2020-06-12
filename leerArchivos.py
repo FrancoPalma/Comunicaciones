@@ -13,7 +13,7 @@ while(aux <= 30):
     #time.sleep(5)
     f.write("Archivo"+str(aux)+"\n")
     start_time = time.time()
-    #time.sleep(0.1)
+    time.sleep(0.1)
     l=[]
     file = open("ArchivosCP/archivo"+str(aux)+".txt", "r")
     x = ""
@@ -35,7 +35,7 @@ while(aux <= 30):
 
     f.write(str((time.time()-start_time)-0.01))
     f.write("\n\n")
-    aun+=1
+    aux+=1
 f.close()
 #-------------------------------------------
 
