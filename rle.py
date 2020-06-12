@@ -114,6 +114,7 @@ f.close()
 #f = open("/Github/Comunicaciones/ResultadosRLESP.txt", "w")
 f = open("ResultadosRLESP.txt", "w")
 aux = 1
+l3 = [0] * 40;
 while(aux <= 30):
     file = open("ArchivosSP/archivo"+str(aux)+".txt", "r")
     x = ""
@@ -168,5 +169,6 @@ while(aux <= 30):
     f.write("\n")
     f.write(str((time.time()-start_time)-0.01))
     f.write("\n\n")
+
     aux += 1
 f.close()
