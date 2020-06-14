@@ -1,12 +1,12 @@
 p=1
 for i in range(30):
-    file = open("Codigos/Codigo"+str(p)+".txt", "r")
+    file = open("CodCE001/CodigoCE"+str(p)+".txt", "r")
     texto = ""
     aux=""
     for i in file:
         texto += i;
     file.close()
-    file2 = open("Descodificados/SinError/Descodificado"+str(p)+".txt", "w")
+    file2 = open("Descodificados/Error001/Descodificado"+str(p)+".txt", "w")
     for i in texto:
         aux+=i
         if len(aux) == 9:
