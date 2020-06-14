@@ -6,7 +6,7 @@ Cantidad de simbolos comprimidos es: 40.
 ecfdecfdecfdecfdecfd
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007299423217773382
+0.0001005172729492132
 
 ArchivoCP2.
 2l1d1m2l1d1m2l1d1m2l1d1m2l1d1m
@@ -16,7 +16,7 @@ Cantidad de simbolos comprimidos es: 30.
 lldmlldmlldmlldmlldm
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0002459526062011663
+0.0007723808288574163
 
 ArchivoCP3.
 1z1p1u1i1z1p1u1i1z1p1u1i1z1p1u1i1z1p1u1i
@@ -26,7 +26,7 @@ Cantidad de simbolos comprimidos es: 40.
 zpuizpuizpuizpuizpui
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007313728332519476
+0.00027813911437987726
 
 ArchivoCP4.
 1o1w1k1d1o1w1k1d1o1w1k1d1o1w1k1d1o1w1k1d
@@ -36,7 +36,7 @@ Cantidad de simbolos comprimidos es: 40.
 owkdowkdowkdowkdowkd
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007294654846191351
+0.0007287502288818304
 
 ArchivoCP5.
 1c1f1u1z1c1f1u1z1c1f1u1z1c1f1u1z1c1f1u1z
@@ -46,7 +46,7 @@ Cantidad de simbolos comprimidos es: 40.
 cfuzcfuzcfuzcfuzcfuz
 Cantidad de simbolos descomprimidos es: 20.
 
-0.000731134414672846
+0.0007714271545410101
 
 ArchivoCP6.
 1d1o1x2d1o1x2d1o1x2d1o1x2d1o1x1d
@@ -56,7 +56,7 @@ Cantidad de simbolos comprimidos es: 32.
 doxddoxddoxddoxddoxd
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007292270660400335
+0.0004252433776855413
 
 ArchivoCP7.
 1n1d1k1b1n1d1k1b1n1d1k1b1n1d1k1b1n1d1k1b
@@ -66,7 +66,7 @@ Cantidad de simbolos comprimidos es: 40.
 ndkbndkbndkbndkbndkb
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007316112518310491
+0.0007356643676757757
 
 ArchivoCP8.
 1j1d1k1c1j1d1k1c1j1d1k1c1j1d1k1c1j1d1k1c
@@ -76,7 +76,7 @@ Cantidad de simbolos comprimidos es: 40.
 jdkcjdkcjdkcjdkcjdkc
 Cantidad de simbolos descomprimidos es: 20.
 
-0.00035634040832518976
+0.0007294654846191351
 
 ArchivoCP9.
 1y1l1m1x1y1l1m1x1y1l1m1x1y1l1m1x1y1l1m1x
@@ -86,7 +86,7 @@ Cantidad de simbolos comprimidos es: 40.
 ylmxylmxylmxylmxylmx
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007375717163085882
+0.000732803344726557
 
 ArchivoCP10.
 1e1q1s1q1e1q1s1q1e1q1s1q1e1q1s1q1e1q1s1q
@@ -96,7 +96,7 @@ Cantidad de simbolos comprimidos es: 40.
 eqsqeqsqeqsqeqsqeqsq
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007299423217773382
+0.0007266044616699163
 
 ArchivoCP11.
 1h1n1z1r1h1n1z1r1h1n1z1r1h1n1z1r1h1n1z1r
@@ -106,7 +106,7 @@ Cantidad de simbolos comprimidos es: 40.
 hnzrhnzrhnzrhnzrhnzr
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007306575775146429
+0.00015988349914550226
 
 ArchivoCP12.
 1b1o1l2b1o1l2b1o1l2b1o1l2b1o1l1b
@@ -116,7 +116,7 @@ Cantidad de simbolos comprimidos es: 32.
 bolbbolbbolbbolbbolb
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007304191589355413
+0.0007306575775146429
 
 ArchivoCP13.
 2q1h1b2q1h1b2q1h1b2q1h1b2q1h1b
@@ -126,7 +126,7 @@ Cantidad de simbolos comprimidos es: 30.
 qqhbqqhbqqhbqqhbqqhb
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007308959960937444
+0.0002435684204101507
 
 ArchivoCP14.
 1o1k1c1n1o1k1c1n1o1k1c1n1o1k1c1n1o1k1c1n
@@ -146,7 +146,7 @@ Cantidad de simbolos comprimidos es: 40.
 uqjzuqjzuqjzuqjzuqjz
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007316112518310491
+0.0007356643676757757
 
 ArchivoCP16.
 1f1w1g1p1f1w1g1p1f1w1g1p1f1w1g1p1f1w1g1p
@@ -156,7 +156,7 @@ Cantidad de simbolos comprimidos es: 40.
 fwgpfwgpfwgpfwgpfwgp
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007294654846191351
+0.0007304191589355413
 
 ArchivoCP17.
 1e1m1t2e1m1t2e1m1t2e1m1t2e1m1t1e
@@ -166,7 +166,7 @@ Cantidad de simbolos comprimidos es: 32.
 emteemteemteemteemte
 Cantidad de simbolos descomprimidos es: 20.
 
-0.00024142265319823664
+0.0007297039031982366
 
 ArchivoCP18.
 1b1i1v1l1b1i1v1l1b1i1v1l1b1i1v1l1b1i1v1l
@@ -176,7 +176,7 @@ Cantidad de simbolos comprimidos es: 40.
 bivlbivlbivlbivlbivl
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007313728332519476
+0.001043939590454096
 
 ArchivoCP19.
 1l1m1l1j1l1m1l1j1l1m1l1j1l1m1l1j1l1m1l1j
@@ -186,7 +186,7 @@ Cantidad de simbolos comprimidos es: 40.
 lmljlmljlmljlmljlmlj
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007385253906249944
+0.00020446777343749445
 
 ArchivoCP20.
 1e1m1c1o1e1m1c1o1e1m1c1o1e1m1c1o1e1m1c1o
@@ -196,7 +196,7 @@ Cantidad de simbolos comprimidos es: 40.
 emcoemcoemcoemcoemco
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007294654846191351
+0.0009037494659423773
 
 ArchivoCP21.
 1m1i1h2m1i1h2m1i1h2m1i1h2m1i1h1m
@@ -206,7 +206,7 @@ Cantidad de simbolos comprimidos es: 32.
 mihmmihmmihmmihmmihm
 Cantidad de simbolos descomprimidos es: 20.
 
-0.00014581680297851007
+0.0002469062805175726
 
 ArchivoCP22.
 1b1q1y1r1b1q1y1r1b1q1y1r1b1q1y1r1b1q1y1r
@@ -216,7 +216,7 @@ Cantidad de simbolos comprimidos es: 40.
 bqyrbqyrbqyrbqyrbqyr
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007294654846191351
+8.287429809569757e-05
 
 ArchivoCP23.
 1n1l1e1v1n1l1e1v1n1l1e1v1n1l1e1v1n1l1e1v
@@ -226,7 +226,7 @@ Cantidad de simbolos comprimidos es: 40.
 nlevnlevnlevnlevnlev
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007308959960937444
+9.28878784179632e-05
 
 ArchivoCP24.
 1q1v1l1g1q1v1l1g1q1v1l1g1q1v1l1g1q1v1l1g
@@ -236,7 +236,7 @@ Cantidad de simbolos comprimidos es: 40.
 qvlgqvlgqvlgqvlgqvlg
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007177829742431585
+0.0007065773010253851
 
 ArchivoCP25.
 1q1h1d1f1q1h1d1f1q1h1d1f1q1h1d1f1q1h1d1f
@@ -246,7 +246,7 @@ Cantidad de simbolos comprimidos es: 40.
 qhdfqhdfqhdfqhdfqhdf
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007266044616699163
+0.0007306575775146429
 
 ArchivoCP26.
 1j1y1v1q1j1y1v1q1j1y1v1q1j1y1v1q1j1y1v1q
@@ -256,7 +256,7 @@ Cantidad de simbolos comprimidos es: 40.
 jyvqjyvqjyvqjyvqjyvq
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0007304191589355413
+0.000728988647460932
 
 ArchivoCP27.
 1n1x1k1j1n1x1k1j1n1x1k1j1n1x1k1j1n1x1k1j
@@ -266,7 +266,7 @@ Cantidad de simbolos comprimidos es: 40.
 nxkjnxkjnxkjnxkjnxkj
 Cantidad de simbolos descomprimidos es: 20.
 
-0.000769281387329096
+0.00015344619750976007
 
 ArchivoCP28.
 1j1p1a1y1j1p1a1y1j1p1a1y1j1p1a1y1j1p1a1y
@@ -276,7 +276,7 @@ Cantidad de simbolos comprimidos es: 40.
 jpayjpayjpayjpayjpay
 Cantidad de simbolos descomprimidos es: 20.
 
-0.0006956100463867132
+0.0008026599884033148
 
 ArchivoCP29.
 1p1h1l1s1p1h1l1s1p1h1l1s1p1h1l1s1p1h1l1s
@@ -286,7 +286,7 @@ Cantidad de simbolos comprimidos es: 40.
 phlsphlsphlsphlsphls
 Cantidad de simbolos descomprimidos es: 20.
 
-0.000727319717407221
+0.00011553764343261164
 
 ArchivoCP30.
 1x1e1n1f1x1e1n1f1x1e1n1f1x1e1n1f1x1e1n1f
@@ -296,5 +296,5 @@ Cantidad de simbolos comprimidos es: 40.
 xenfxenfxenfxenfxenf
 Cantidad de simbolos descomprimidos es: 20.
 
-0.000647211074829096
+0.0006331443786621038
 

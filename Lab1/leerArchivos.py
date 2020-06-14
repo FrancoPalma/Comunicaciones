@@ -13,7 +13,7 @@ while(aux <= 30):
     #time.sleep(5)
     f.write("Archivo"+str(aux)+"\n")
     start_time = time.time()
-    #time.sleep(0.1)
+    time.sleep(0.1)
     l=[]
     file = open("ArchivosCP/archivo"+str(aux)+".txt", "r")
     x = ""
@@ -21,8 +21,7 @@ while(aux <= 30):
     for i in file:
         x += i;
     compressed = test.compress(x)
-    f.write("El archivo comprimido es: "+str(compressed)+"\n")
-
+    f.write("Numero de simbolos comprimidos: "+ str(len(compressed))+"\n")
 
     decompressed = test.decompress(compressed)
     f.write("Descomprimido es: "+str(decompressed)+".\n")
@@ -33,8 +32,10 @@ while(aux <= 30):
             num_simbolos.append(dictionary[c])
 
 
+    f.write("TIEMPO:" )
     f.write(str((time.time()-start_time)-0.01))
     f.write("\n\n")
+    aux+=1
 f.close()
 #-------------------------------------------
 
@@ -52,7 +53,7 @@ while(aux <= 30):
     for i in file:
         x += i;
     compressed = test.compress(x)
-    f.write("El archivo comprimido es: "+str(compressed)+"\n")
+    f.write("Numero de simbolos comprimidos: "+ str(len(compressed))+"\n")
 
 
 
@@ -74,8 +75,8 @@ while(aux <= 30):
         else:
             bits += bits_simbolo"""
 
-    f.write("Cantidad de simbolos de descomprimidos es: "+str(len(num_simbolos))+".\n")
-    f.write("\n")
+    f.write("TIEMPO:" )
     f.write(str((time.time()-start_time)-0.01))
     f.write("\n\n")
+    aux+=1
 f.close()

@@ -1,271 +1,151 @@
 Archivo1
-El archivo comprimido es: [112, 118, 104, 110, 103, 99, 103, 110, 115, 106, 102, 107, 119, 118, 101, 110, 108, 120, 99, 101, 10]
-El peso en bites es: 144.0.
+Numero de simbolos comprimidos: 21
 Descomprimido es: pvhngcgnsjfkwvenlxce
 .
-[112, 118, 104, 110, 103, 99, 103, 110, 115, 106, 102, 107, 119, 118, 101, 110, 108, 120, 99, 101, 10]
-El peso en bites descomprimidos es: 144.0.
-
- 0.00036206245422362726 seconds
+TIEMPO:0.0902485752105713
 
 Archivo2
-El archivo comprimido es: [99, 102, 117, 101, 103, 99, 99, 105, 112, 109, 113, 113, 101, 115, 105, 106, 119, 115, 115, 110]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: cfuegccipmqqesijwssn.
-[99, 102, 117, 101, 103, 99, 99, 105, 112, 109, 113, 113, 101, 115, 105, 106, 119, 115, 115, 110]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0022114753723144476 seconds
+TIEMPO:0.09080718994140625
 
 Archivo3
-El archivo comprimido es: [104, 103, 110, 110, 111, 98, 122, 105, 100, 111, 111, 99, 99, 109, 113, 113, 104, 122, 99, 116]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: hgnnobzidooccmqqhzct.
-[104, 103, 110, 110, 111, 98, 122, 105, 100, 111, 111, 99, 99, 109, 113, 113, 104, 122, 99, 116]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0012279987335205023 seconds
+TIEMPO:0.09073184967041016
 
 Archivo4
-El archivo comprimido es: [122, 112, 107, 98, 121, 107, 119, 108, 109, 111, 97, 103, 114, 115, 101, 113, 98, 271, 106]
-El peso en bites es: 135.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: zpkbykwlmoagrseqbqbj.
-[122, 112, 107, 98, 121, 107, 119, 108, 109, 111, 97, 103, 114, 115, 101, 113, 98, 113, 98, 106]
-El peso en bites descomprimidos es: 140.0.
-
- 0.007297182083129877 seconds
+TIEMPO:0.09074114799499512
 
 Archivo5
-El archivo comprimido es: [111, 114, 100, 110, 101, 108, 105, 119, 113, 112, 104, 99, 107, 106, 106, 100, 112, 122, 102, 97]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: ordneliwqphckjjdpzfa.
-[111, 114, 100, 110, 101, 108, 105, 119, 113, 112, 104, 99, 107, 106, 106, 100, 112, 122, 102, 97]
-El peso en bites descomprimidos es: 140.0.
-
- 0.00154199600219726 seconds
+TIEMPO:0.09073041915893555
 
 Archivo6
-El archivo comprimido es: [100, 103, 108, 100, 121, 109, 121, 98, 110, 122, 116, 121, 100, 110, 115, 109, 111, 97, 121, 101]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: dgldymybnztydnsmoaye.
-[100, 103, 108, 100, 121, 109, 121, 98, 110, 122, 116, 121, 100, 110, 115, 109, 111, 97, 121, 101]
-El peso en bites descomprimidos es: 140.0.
-
- 0.001131677627563471 seconds
+TIEMPO:0.09067033767700196
 
 Archivo7
-El archivo comprimido es: [98, 122, 109, 102, 257, 115, 107, 117, 105, 105, 101, 105, 108, 116, 110, 107, 122, 104, 106]
-El peso en bites es: 135.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: bzmfzmskuiieiltnkzhj.
-[98, 122, 109, 102, 122, 109, 115, 107, 117, 105, 105, 101, 105, 108, 116, 110, 107, 122, 104, 106]
-El peso en bites descomprimidos es: 140.0.
-
- 0.002043867111206049 seconds
+TIEMPO:0.0900354290008545
 
 Archivo8
-El archivo comprimido es: [102, 112, 121, 115, 101, 98, 107, 105, 103, 105, 116, 103, 115, 103, 108, 116, 113, 105, 110, 105]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: fpysebkigitgsgltqini.
-[102, 112, 121, 115, 101, 98, 107, 105, 103, 105, 116, 103, 115, 103, 108, 116, 113, 105, 110, 105]
-El peso en bites descomprimidos es: 140.0.
-
- 0.006727123260498041 seconds
+TIEMPO:0.09182428359985352
 
 Archivo9
-El archivo comprimido es: [98, 118, 108, 107, 117, 99, 104, 97, 117, 114, 97, 119, 98, 120, 119, 122, 105, 105, 101, 115]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: bvlkuchaurawbxwziies.
-[98, 118, 108, 107, 117, 99, 104, 97, 117, 114, 97, 119, 98, 120, 119, 122, 105, 105, 101, 115]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0027514934539794866 seconds
+TIEMPO:0.09072541236877442
 
 Archivo10
-El archivo comprimido es: [104, 120, 107, 97, 108, 114, 110, 121, 112, 98, 101, 104, 119, 102, 98, 98, 108, 118, 262]
-El peso en bites es: 135.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: hxkalrnypbehwfbblvny.
-[104, 120, 107, 97, 108, 114, 110, 121, 112, 98, 101, 104, 119, 102, 98, 98, 108, 118, 110, 121]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0012632846832275335 seconds
+TIEMPO:0.09073018074035645
 
 Archivo11
-El archivo comprimido es: [114, 122, 121, 110, 107, 109, 100, 110, 100, 101, 121, 116, 120, 109, 110, 117, 256, 102, 99]
-El peso en bites es: 134.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: rzynkmdndeytxmnurzfc.
-[114, 122, 121, 110, 107, 109, 100, 110, 100, 101, 121, 116, 120, 109, 110, 117, 114, 122, 102, 99]
-El peso en bites descomprimidos es: 140.0.
-
- 0.001707696914672846 seconds
+TIEMPO:0.09172748565673829
 
 Archivo12
-El archivo comprimido es: [110, 103, 117, 99, 114, 108, 120, 119, 99, 109, 119, 258, 115, 120, 116, 97, 110, 106, 97]
-El peso en bites es: 135.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: ngucrlxwcmwucsxtanja.
-[110, 103, 117, 99, 114, 108, 120, 119, 99, 109, 119, 117, 99, 115, 120, 116, 97, 110, 106, 97]
-El peso en bites descomprimidos es: 140.0.
-
- 0.001728439331054682 seconds
+TIEMPO:0.09073065757751465
 
 Archivo13
-El archivo comprimido es: [100, 104, 114, 113, 108, 103, 118, 109, 117, 105, 122, 103, 98, 112, 110, 117, 108, 106, 99, 98]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: dhrqlgvmuizgbpnuljcb.
-[100, 104, 114, 113, 108, 103, 118, 109, 117, 105, 122, 103, 98, 112, 110, 117, 108, 106, 99, 98]
-El peso en bites descomprimidos es: 140.0.
-
- 0.00490202903747558 seconds
+TIEMPO:0.09077905654907227
 
 Archivo14
-El archivo comprimido es: [99, 117, 118, 122, 115, 114, 112, 112, 111, 107, 104, 122, 100, 117, 120, 112, 106, 98, 114, 113]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: cuvzsrppokhzduxpjbrq.
-[99, 117, 118, 122, 115, 114, 112, 112, 111, 107, 104, 122, 100, 117, 120, 112, 106, 98, 114, 113]
-El peso en bites descomprimidos es: 140.0.
-
- 0.006666088104248041 seconds
+TIEMPO:0.09069799423217774
 
 Archivo15
-El archivo comprimido es: [97, 118, 120, 256, 114, 104, 117, 102, 105, 110, 106, 114, 100, 109, 97, 120, 98, 108, 101]
-El peso en bites es: 134.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: avxavrhufinjrdmaxble.
-[97, 118, 120, 97, 118, 114, 104, 117, 102, 105, 110, 106, 114, 100, 109, 97, 120, 98, 108, 101]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0014933586120605413 seconds
+TIEMPO:0.0907375717163086
 
 Archivo16
-El archivo comprimido es: [116, 109, 117, 99, 116, 97, 98, 99, 114, 116, 105, 102, 112, 109, 103, 269, 110, 105, 114]
-El peso en bites es: 135.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: tmuctabcrtifpmgmgnir.
-[116, 109, 117, 99, 116, 97, 98, 99, 114, 116, 105, 102, 112, 109, 103, 109, 103, 110, 105, 114]
-El peso en bites descomprimidos es: 140.0.
-
- 0.005715990066528315 seconds
+TIEMPO:0.09081219673156739
 
 Archivo17
-El archivo comprimido es: [122, 102, 98, 105, 99, 115, 98, 122, 113, 105, 114, 116, 106, 104, 121, 122, 101, 105, 121, 100]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: zfbicsbzqirtjhyzeiyd.
-[122, 102, 98, 105, 99, 115, 98, 122, 113, 105, 114, 116, 106, 104, 121, 122, 101, 105, 121, 100]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0017553806304931585 seconds
+TIEMPO:0.09014057159423829
 
 Archivo18
-El archivo comprimido es: [109, 112, 102, 102, 104, 103, 113, 110, 104, 107, 118, 99, 119, 122, 107, 102, 111, 120, 101, 97]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: mpffhgqnhkvcwzkfoxea.
-[109, 112, 102, 102, 104, 103, 113, 110, 104, 107, 118, 99, 119, 122, 107, 102, 111, 120, 101, 97]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0018791198730468694 seconds
+TIEMPO:0.09198402404785157
 
 Archivo19
-El archivo comprimido es: [111, 113, 110, 120, 104, 97, 106, 122, 112, 114, 106, 110, 101, 114, 114, 98, 122, 115, 113, 107]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: oqnxhajzprjnerrbzsqk.
-[111, 113, 110, 120, 104, 97, 106, 122, 112, 114, 106, 110, 101, 114, 114, 98, 122, 115, 113, 107]
-El peso en bites descomprimidos es: 140.0.
-
- 0.005988979339599604 seconds
+TIEMPO:0.09073184967041016
 
 Archivo20
-El archivo comprimido es: [101, 111, 115, 119, 98, 102, 105, 98, 120, 105, 103, 118, 98, 118, 109, 111, 108, 106, 107, 104]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: eoswbfibxigvbvmoljkh.
-[101, 111, 115, 119, 98, 102, 105, 98, 120, 105, 103, 118, 98, 118, 109, 111, 108, 106, 107, 104]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0017351150512695257 seconds
+TIEMPO:0.09072851181030274
 
 Archivo21
-El archivo comprimido es: [119, 113, 112, 101, 100, 100, 122, 115, 120, 120, 114, 120, 256, 111, 113, 120, 108, 113, 98]
-El peso en bites es: 134.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: wqpeddzsxxrxwqoqxlqb.
-[119, 113, 112, 101, 100, 100, 122, 115, 120, 120, 114, 120, 119, 113, 111, 113, 120, 108, 113, 98]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0015558242797851507 seconds
+TIEMPO:0.09025215148925782
 
 Archivo22
-El archivo comprimido es: [107, 117, 109, 103, 107, 121, 98, 112, 114, 107, 108, 98, 256, 107, 113, 114, 104, 116, 103]
-El peso en bites es: 134.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: kumgkybprklbkukqrhtg.
-[107, 117, 109, 103, 107, 121, 98, 112, 114, 107, 108, 98, 107, 117, 107, 113, 114, 104, 116, 103]
-El peso en bites descomprimidos es: 140.0.
-
- 0.003656530380249018 seconds
+TIEMPO:0.09024404525756836
 
 Archivo23
-El archivo comprimido es: [104, 119, 103, 106, 116, 110, 104, 118, 122, 100, 110, 109, 116, 117, 105, 257, 117, 98, 116]
-El peso en bites es: 135.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: hwgjtnhvzdnmtuiwgubt.
-[104, 119, 103, 106, 116, 110, 104, 118, 122, 100, 110, 109, 116, 117, 105, 119, 103, 117, 98, 116]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0014952659606933538 seconds
+TIEMPO:0.09024690628051758
 
 Archivo24
-El archivo comprimido es: [98, 104, 113, 114, 110, 122, 100, 262, 109, 121, 98, 110, 110, 117, 104, 111, 117, 106, 118]
-El peso en bites es: 135.0.
+Numero de simbolos comprimidos: 19
 Descomprimido es: bhqrnzdddmybnnuhoujv.
-[98, 104, 113, 114, 110, 122, 100, 100, 100, 109, 121, 98, 110, 110, 117, 104, 111, 117, 106, 118]
-El peso en bites descomprimidos es: 140.0.
-
- 0.01094903945922851 seconds
+TIEMPO:0.09024523735046387
 
 Archivo25
-El archivo comprimido es: [119, 102, 101, 97, 101, 99, 100, 118, 108, 106, 119, 122, 111, 103, 100, 109, 114, 103, 104, 120]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: wfeaecdvljwzogdmrghx.
-[119, 102, 101, 97, 101, 99, 100, 118, 108, 106, 119, 122, 111, 103, 100, 109, 114, 103, 104, 120]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0019375324249267523 seconds
+TIEMPO:0.09073304176330567
 
 Archivo26
-El archivo comprimido es: [105, 107, 105, 103, 118, 117, 119, 117, 113, 108, 109, 120, 99, 108, 118, 114, 111, 99, 103, 99]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: ikigvuwuqlmxclvrocgc.
-[105, 107, 105, 103, 118, 117, 119, 117, 113, 108, 109, 120, 99, 108, 118, 114, 111, 99, 103, 99]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0017603874206542913 seconds
+TIEMPO:0.09073065757751465
 
 Archivo27
-El archivo comprimido es: [118, 100, 120, 122, 109, 122, 116, 116, 111, 98, 116, 97, 114, 104, 115, 109, 105, 101, 110, 117]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: vdxzmzttobtarhsmienu.
-[118, 100, 120, 122, 109, 122, 116, 116, 111, 98, 116, 97, 114, 104, 115, 109, 105, 101, 110, 117]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0015295982360839788 seconds
+TIEMPO:0.09172462463378907
 
 Archivo28
-El archivo comprimido es: [111, 97, 107, 121, 117, 119, 102, 104, 105, 101, 119, 108, 121, 111, 116, 116, 108, 116, 118, 115]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: oakyuwfhiewlyottltvs.
-[111, 97, 107, 121, 117, 119, 102, 104, 105, 101, 119, 108, 121, 111, 116, 116, 108, 116, 118, 115]
-El peso en bites descomprimidos es: 140.0.
-
- 0.005604648590087885 seconds
+TIEMPO:0.09073399543762208
 
 Archivo29
-El archivo comprimido es: [100, 122, 114, 105, 120, 119, 104, 105, 103, 120, 98, 119, 108, 111, 106, 118, 101, 99, 104, 106]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: dzrixwhigxbwlojvechj.
-[100, 122, 114, 105, 120, 119, 104, 105, 103, 120, 98, 119, 108, 111, 106, 118, 101, 99, 104, 106]
-El peso en bites descomprimidos es: 140.0.
-
- 0.1083592414855957 seconds
+TIEMPO:0.09008955001831055
 
 Archivo30
-El archivo comprimido es: [101, 105, 121, 113, 117, 118, 121, 103, 113, 98, 103, 103, 107, 117, 114, 98, 98, 117, 99, 110]
-El peso en bites es: 140.0.
+Numero de simbolos comprimidos: 20
 Descomprimido es: eiyquvygqbggkurbbucn.
-[101, 105, 121, 113, 117, 118, 121, 103, 113, 98, 103, 103, 107, 117, 114, 98, 98, 117, 99, 110]
-El peso en bites descomprimidos es: 140.0.
-
- 0.0012926101684570257 seconds
+TIEMPO:0.09073041915893555
 
