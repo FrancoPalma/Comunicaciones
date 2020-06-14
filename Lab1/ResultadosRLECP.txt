@@ -1,0 +1,300 @@
+ArchivoCP1.
+1e1c1f1d1e1c1f1d1e1c1f1d1e1c1f1d1e1c1f1d
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 101, 49, 99, 49, 102, 49, 100, 49, 101, 49, 99, 49, 102, 49, 100, 49, 101, 49, 99, 49, 102, 49, 100, 49, 101, 49, 99, 49, 102, 49, 100, 49, 101, 49, 99, 49, 102, 49, 100]
+ecfdecfdecfdecfdecfd
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0001005172729492132
+
+ArchivoCP2.
+2l1d1m2l1d1m2l1d1m2l1d1m2l1d1m
+Cantidad de simbolos comprimidos es: 30.
+
+[50, 108, 49, 100, 49, 109, 50, 108, 49, 100, 49, 109, 50, 108, 49, 100, 49, 109, 50, 108, 49, 100, 49, 109, 50, 108, 49, 100, 49, 109]
+lldmlldmlldmlldmlldm
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007723808288574163
+
+ArchivoCP3.
+1z1p1u1i1z1p1u1i1z1p1u1i1z1p1u1i1z1p1u1i
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 122, 49, 112, 49, 117, 49, 105, 49, 122, 49, 112, 49, 117, 49, 105, 49, 122, 49, 112, 49, 117, 49, 105, 49, 122, 49, 112, 49, 117, 49, 105, 49, 122, 49, 112, 49, 117, 49, 105]
+zpuizpuizpuizpuizpui
+Cantidad de simbolos descomprimidos es: 20.
+
+0.00027813911437987726
+
+ArchivoCP4.
+1o1w1k1d1o1w1k1d1o1w1k1d1o1w1k1d1o1w1k1d
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 111, 49, 119, 49, 107, 49, 100, 49, 111, 49, 119, 49, 107, 49, 100, 49, 111, 49, 119, 49, 107, 49, 100, 49, 111, 49, 119, 49, 107, 49, 100, 49, 111, 49, 119, 49, 107, 49, 100]
+owkdowkdowkdowkdowkd
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007287502288818304
+
+ArchivoCP5.
+1c1f1u1z1c1f1u1z1c1f1u1z1c1f1u1z1c1f1u1z
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 99, 49, 102, 49, 117, 49, 122, 49, 99, 49, 102, 49, 117, 49, 122, 49, 99, 49, 102, 49, 117, 49, 122, 49, 99, 49, 102, 49, 117, 49, 122, 49, 99, 49, 102, 49, 117, 49, 122]
+cfuzcfuzcfuzcfuzcfuz
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007714271545410101
+
+ArchivoCP6.
+1d1o1x2d1o1x2d1o1x2d1o1x2d1o1x1d
+Cantidad de simbolos comprimidos es: 32.
+
+[49, 100, 49, 111, 49, 120, 50, 100, 49, 111, 49, 120, 50, 100, 49, 111, 49, 120, 50, 100, 49, 111, 49, 120, 50, 100, 49, 111, 49, 120, 49, 100]
+doxddoxddoxddoxddoxd
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0004252433776855413
+
+ArchivoCP7.
+1n1d1k1b1n1d1k1b1n1d1k1b1n1d1k1b1n1d1k1b
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 110, 49, 100, 49, 107, 49, 98, 49, 110, 49, 100, 49, 107, 49, 98, 49, 110, 49, 100, 49, 107, 49, 98, 49, 110, 49, 100, 49, 107, 49, 98, 49, 110, 49, 100, 49, 107, 49, 98]
+ndkbndkbndkbndkbndkb
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007356643676757757
+
+ArchivoCP8.
+1j1d1k1c1j1d1k1c1j1d1k1c1j1d1k1c1j1d1k1c
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 106, 49, 100, 49, 107, 49, 99, 49, 106, 49, 100, 49, 107, 49, 99, 49, 106, 49, 100, 49, 107, 49, 99, 49, 106, 49, 100, 49, 107, 49, 99, 49, 106, 49, 100, 49, 107, 49, 99]
+jdkcjdkcjdkcjdkcjdkc
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007294654846191351
+
+ArchivoCP9.
+1y1l1m1x1y1l1m1x1y1l1m1x1y1l1m1x1y1l1m1x
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 121, 49, 108, 49, 109, 49, 120, 49, 121, 49, 108, 49, 109, 49, 120, 49, 121, 49, 108, 49, 109, 49, 120, 49, 121, 49, 108, 49, 109, 49, 120, 49, 121, 49, 108, 49, 109, 49, 120]
+ylmxylmxylmxylmxylmx
+Cantidad de simbolos descomprimidos es: 20.
+
+0.000732803344726557
+
+ArchivoCP10.
+1e1q1s1q1e1q1s1q1e1q1s1q1e1q1s1q1e1q1s1q
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 101, 49, 113, 49, 115, 49, 113, 49, 101, 49, 113, 49, 115, 49, 113, 49, 101, 49, 113, 49, 115, 49, 113, 49, 101, 49, 113, 49, 115, 49, 113, 49, 101, 49, 113, 49, 115, 49, 113]
+eqsqeqsqeqsqeqsqeqsq
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007266044616699163
+
+ArchivoCP11.
+1h1n1z1r1h1n1z1r1h1n1z1r1h1n1z1r1h1n1z1r
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 104, 49, 110, 49, 122, 49, 114, 49, 104, 49, 110, 49, 122, 49, 114, 49, 104, 49, 110, 49, 122, 49, 114, 49, 104, 49, 110, 49, 122, 49, 114, 49, 104, 49, 110, 49, 122, 49, 114]
+hnzrhnzrhnzrhnzrhnzr
+Cantidad de simbolos descomprimidos es: 20.
+
+0.00015988349914550226
+
+ArchivoCP12.
+1b1o1l2b1o1l2b1o1l2b1o1l2b1o1l1b
+Cantidad de simbolos comprimidos es: 32.
+
+[49, 98, 49, 111, 49, 108, 50, 98, 49, 111, 49, 108, 50, 98, 49, 111, 49, 108, 50, 98, 49, 111, 49, 108, 50, 98, 49, 111, 49, 108, 49, 98]
+bolbbolbbolbbolbbolb
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007306575775146429
+
+ArchivoCP13.
+2q1h1b2q1h1b2q1h1b2q1h1b2q1h1b
+Cantidad de simbolos comprimidos es: 30.
+
+[50, 113, 49, 104, 49, 98, 50, 113, 49, 104, 49, 98, 50, 113, 49, 104, 49, 98, 50, 113, 49, 104, 49, 98, 50, 113, 49, 104, 49, 98]
+qqhbqqhbqqhbqqhbqqhb
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0002435684204101507
+
+ArchivoCP14.
+1o1k1c1n1o1k1c1n1o1k1c1n1o1k1c1n1o1k1c1n
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 111, 49, 107, 49, 99, 49, 110, 49, 111, 49, 107, 49, 99, 49, 110, 49, 111, 49, 107, 49, 99, 49, 110, 49, 111, 49, 107, 49, 99, 49, 110, 49, 111, 49, 107, 49, 99, 49, 110]
+okcnokcnokcnokcnokcn
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007301807403564398
+
+ArchivoCP15.
+1u1q1j1z1u1q1j1z1u1q1j1z1u1q1j1z1u1q1j1z
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 117, 49, 113, 49, 106, 49, 122, 49, 117, 49, 113, 49, 106, 49, 122, 49, 117, 49, 113, 49, 106, 49, 122, 49, 117, 49, 113, 49, 106, 49, 122, 49, 117, 49, 113, 49, 106, 49, 122]
+uqjzuqjzuqjzuqjzuqjz
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007356643676757757
+
+ArchivoCP16.
+1f1w1g1p1f1w1g1p1f1w1g1p1f1w1g1p1f1w1g1p
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 102, 49, 119, 49, 103, 49, 112, 49, 102, 49, 119, 49, 103, 49, 112, 49, 102, 49, 119, 49, 103, 49, 112, 49, 102, 49, 119, 49, 103, 49, 112, 49, 102, 49, 119, 49, 103, 49, 112]
+fwgpfwgpfwgpfwgpfwgp
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007304191589355413
+
+ArchivoCP17.
+1e1m1t2e1m1t2e1m1t2e1m1t2e1m1t1e
+Cantidad de simbolos comprimidos es: 32.
+
+[49, 101, 49, 109, 49, 116, 50, 101, 49, 109, 49, 116, 50, 101, 49, 109, 49, 116, 50, 101, 49, 109, 49, 116, 50, 101, 49, 109, 49, 116, 49, 101]
+emteemteemteemteemte
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007297039031982366
+
+ArchivoCP18.
+1b1i1v1l1b1i1v1l1b1i1v1l1b1i1v1l1b1i1v1l
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 98, 49, 105, 49, 118, 49, 108, 49, 98, 49, 105, 49, 118, 49, 108, 49, 98, 49, 105, 49, 118, 49, 108, 49, 98, 49, 105, 49, 118, 49, 108, 49, 98, 49, 105, 49, 118, 49, 108]
+bivlbivlbivlbivlbivl
+Cantidad de simbolos descomprimidos es: 20.
+
+0.001043939590454096
+
+ArchivoCP19.
+1l1m1l1j1l1m1l1j1l1m1l1j1l1m1l1j1l1m1l1j
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 108, 49, 109, 49, 108, 49, 106, 49, 108, 49, 109, 49, 108, 49, 106, 49, 108, 49, 109, 49, 108, 49, 106, 49, 108, 49, 109, 49, 108, 49, 106, 49, 108, 49, 109, 49, 108, 49, 106]
+lmljlmljlmljlmljlmlj
+Cantidad de simbolos descomprimidos es: 20.
+
+0.00020446777343749445
+
+ArchivoCP20.
+1e1m1c1o1e1m1c1o1e1m1c1o1e1m1c1o1e1m1c1o
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 101, 49, 109, 49, 99, 49, 111, 49, 101, 49, 109, 49, 99, 49, 111, 49, 101, 49, 109, 49, 99, 49, 111, 49, 101, 49, 109, 49, 99, 49, 111, 49, 101, 49, 109, 49, 99, 49, 111]
+emcoemcoemcoemcoemco
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0009037494659423773
+
+ArchivoCP21.
+1m1i1h2m1i1h2m1i1h2m1i1h2m1i1h1m
+Cantidad de simbolos comprimidos es: 32.
+
+[49, 109, 49, 105, 49, 104, 50, 109, 49, 105, 49, 104, 50, 109, 49, 105, 49, 104, 50, 109, 49, 105, 49, 104, 50, 109, 49, 105, 49, 104, 49, 109]
+mihmmihmmihmmihmmihm
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0002469062805175726
+
+ArchivoCP22.
+1b1q1y1r1b1q1y1r1b1q1y1r1b1q1y1r1b1q1y1r
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 98, 49, 113, 49, 121, 49, 114, 49, 98, 49, 113, 49, 121, 49, 114, 49, 98, 49, 113, 49, 121, 49, 114, 49, 98, 49, 113, 49, 121, 49, 114, 49, 98, 49, 113, 49, 121, 49, 114]
+bqyrbqyrbqyrbqyrbqyr
+Cantidad de simbolos descomprimidos es: 20.
+
+8.287429809569757e-05
+
+ArchivoCP23.
+1n1l1e1v1n1l1e1v1n1l1e1v1n1l1e1v1n1l1e1v
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 110, 49, 108, 49, 101, 49, 118, 49, 110, 49, 108, 49, 101, 49, 118, 49, 110, 49, 108, 49, 101, 49, 118, 49, 110, 49, 108, 49, 101, 49, 118, 49, 110, 49, 108, 49, 101, 49, 118]
+nlevnlevnlevnlevnlev
+Cantidad de simbolos descomprimidos es: 20.
+
+9.28878784179632e-05
+
+ArchivoCP24.
+1q1v1l1g1q1v1l1g1q1v1l1g1q1v1l1g1q1v1l1g
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 113, 49, 118, 49, 108, 49, 103, 49, 113, 49, 118, 49, 108, 49, 103, 49, 113, 49, 118, 49, 108, 49, 103, 49, 113, 49, 118, 49, 108, 49, 103, 49, 113, 49, 118, 49, 108, 49, 103]
+qvlgqvlgqvlgqvlgqvlg
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007065773010253851
+
+ArchivoCP25.
+1q1h1d1f1q1h1d1f1q1h1d1f1q1h1d1f1q1h1d1f
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 113, 49, 104, 49, 100, 49, 102, 49, 113, 49, 104, 49, 100, 49, 102, 49, 113, 49, 104, 49, 100, 49, 102, 49, 113, 49, 104, 49, 100, 49, 102, 49, 113, 49, 104, 49, 100, 49, 102]
+qhdfqhdfqhdfqhdfqhdf
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0007306575775146429
+
+ArchivoCP26.
+1j1y1v1q1j1y1v1q1j1y1v1q1j1y1v1q1j1y1v1q
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 106, 49, 121, 49, 118, 49, 113, 49, 106, 49, 121, 49, 118, 49, 113, 49, 106, 49, 121, 49, 118, 49, 113, 49, 106, 49, 121, 49, 118, 49, 113, 49, 106, 49, 121, 49, 118, 49, 113]
+jyvqjyvqjyvqjyvqjyvq
+Cantidad de simbolos descomprimidos es: 20.
+
+0.000728988647460932
+
+ArchivoCP27.
+1n1x1k1j1n1x1k1j1n1x1k1j1n1x1k1j1n1x1k1j
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 110, 49, 120, 49, 107, 49, 106, 49, 110, 49, 120, 49, 107, 49, 106, 49, 110, 49, 120, 49, 107, 49, 106, 49, 110, 49, 120, 49, 107, 49, 106, 49, 110, 49, 120, 49, 107, 49, 106]
+nxkjnxkjnxkjnxkjnxkj
+Cantidad de simbolos descomprimidos es: 20.
+
+0.00015344619750976007
+
+ArchivoCP28.
+1j1p1a1y1j1p1a1y1j1p1a1y1j1p1a1y1j1p1a1y
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 106, 49, 112, 49, 97, 49, 121, 49, 106, 49, 112, 49, 97, 49, 121, 49, 106, 49, 112, 49, 97, 49, 121, 49, 106, 49, 112, 49, 97, 49, 121, 49, 106, 49, 112, 49, 97, 49, 121]
+jpayjpayjpayjpayjpay
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0008026599884033148
+
+ArchivoCP29.
+1p1h1l1s1p1h1l1s1p1h1l1s1p1h1l1s1p1h1l1s
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 112, 49, 104, 49, 108, 49, 115, 49, 112, 49, 104, 49, 108, 49, 115, 49, 112, 49, 104, 49, 108, 49, 115, 49, 112, 49, 104, 49, 108, 49, 115, 49, 112, 49, 104, 49, 108, 49, 115]
+phlsphlsphlsphlsphls
+Cantidad de simbolos descomprimidos es: 20.
+
+0.00011553764343261164
+
+ArchivoCP30.
+1x1e1n1f1x1e1n1f1x1e1n1f1x1e1n1f1x1e1n1f
+Cantidad de simbolos comprimidos es: 40.
+
+[49, 120, 49, 101, 49, 110, 49, 102, 49, 120, 49, 101, 49, 110, 49, 102, 49, 120, 49, 101, 49, 110, 49, 102, 49, 120, 49, 101, 49, 110, 49, 102, 49, 120, 49, 101, 49, 110, 49, 102]
+xenfxenfxenfxenfxenf
+Cantidad de simbolos descomprimidos es: 20.
+
+0.0006331443786621038
+

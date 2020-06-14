@@ -1,0 +1,150 @@
+El tamaño de la imagen CP BMP 1 es de:6220854 bytes.
+El tamaño de la imagen JPG 1 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 1 se demoro: 0.048866987228393555 en comprimirse.
+
+El tamaño de la imagen CP BMP 2 es de:6220854 bytes.
+El tamaño de la imagen JPG 2 es de:33268 bytes.
+La diferencia es de: 6187586 bytes.
+La imagen 2 se demoro: 0.03189563751220703 en comprimirse.
+
+El tamaño de la imagen CP BMP 3 es de:6220854 bytes.
+El tamaño de la imagen JPG 3 es de:34273 bytes.
+La diferencia es de: 6186581 bytes.
+La imagen 3 se demoro: 0.02392125129699707 en comprimirse.
+
+El tamaño de la imagen CP BMP 4 es de:6220854 bytes.
+El tamaño de la imagen JPG 4 es de:33267 bytes.
+La diferencia es de: 6187587 bytes.
+La imagen 4 se demoro: 0.028955698013305664 en comprimirse.
+
+El tamaño de la imagen CP BMP 5 es de:6220854 bytes.
+El tamaño de la imagen JPG 5 es de:33268 bytes.
+La diferencia es de: 6187586 bytes.
+La imagen 5 se demoro: 0.03191256523132324 en comprimirse.
+
+El tamaño de la imagen CP BMP 6 es de:6220854 bytes.
+El tamaño de la imagen JPG 6 es de:33268 bytes.
+La diferencia es de: 6187586 bytes.
+La imagen 6 se demoro: 0.029429912567138672 en comprimirse.
+
+El tamaño de la imagen CP BMP 7 es de:6220854 bytes.
+El tamaño de la imagen JPG 7 es de:34142 bytes.
+La diferencia es de: 6186712 bytes.
+La imagen 7 se demoro: 0.02892160415649414 en comprimirse.
+
+El tamaño de la imagen CP BMP 8 es de:6220854 bytes.
+El tamaño de la imagen JPG 8 es de:33267 bytes.
+La diferencia es de: 6187587 bytes.
+La imagen 8 se demoro: 0.029906034469604492 en comprimirse.
+
+El tamaño de la imagen CP BMP 9 es de:6220854 bytes.
+El tamaño de la imagen JPG 9 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 9 se demoro: 0.027924299240112305 en comprimirse.
+
+El tamaño de la imagen CP BMP 10 es de:6220854 bytes.
+El tamaño de la imagen JPG 10 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 10 se demoro: 0.029433727264404297 en comprimirse.
+
+El tamaño de la imagen CP BMP 11 es de:6220854 bytes.
+El tamaño de la imagen JPG 11 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 11 se demoro: 0.028934955596923828 en comprimirse.
+
+El tamaño de la imagen CP BMP 12 es de:6220854 bytes.
+El tamaño de la imagen JPG 12 es de:37458 bytes.
+La diferencia es de: 6183396 bytes.
+La imagen 12 se demoro: 0.030916452407836914 en comprimirse.
+
+El tamaño de la imagen CP BMP 13 es de:6220854 bytes.
+El tamaño de la imagen JPG 13 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 13 se demoro: 0.02821493148803711 en comprimirse.
+
+El tamaño de la imagen CP BMP 14 es de:6220854 bytes.
+El tamaño de la imagen JPG 14 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 14 se demoro: 0.033907413482666016 en comprimirse.
+
+El tamaño de la imagen CP BMP 15 es de:6220854 bytes.
+El tamaño de la imagen JPG 15 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 15 se demoro: 0.02693009376525879 en comprimirse.
+
+El tamaño de la imagen CP BMP 16 es de:6220854 bytes.
+El tamaño de la imagen JPG 16 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 16 se demoro: 0.029914379119873047 en comprimirse.
+
+El tamaño de la imagen CP BMP 17 es de:6220854 bytes.
+El tamaño de la imagen JPG 17 es de:34462 bytes.
+La diferencia es de: 6186392 bytes.
+La imagen 17 se demoro: 0.034906864166259766 en comprimirse.
+
+El tamaño de la imagen CP BMP 18 es de:6220854 bytes.
+El tamaño de la imagen JPG 18 es de:41543 bytes.
+La diferencia es de: 6179311 bytes.
+La imagen 18 se demoro: 0.03094768524169922 en comprimirse.
+
+El tamaño de la imagen CP BMP 19 es de:6220854 bytes.
+El tamaño de la imagen JPG 19 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 19 se demoro: 0.025899171829223633 en comprimirse.
+
+El tamaño de la imagen CP BMP 20 es de:6220854 bytes.
+El tamaño de la imagen JPG 20 es de:33268 bytes.
+La diferencia es de: 6187586 bytes.
+La imagen 20 se demoro: 0.0329129695892334 en comprimirse.
+
+El tamaño de la imagen CP BMP 21 es de:6220854 bytes.
+El tamaño de la imagen JPG 21 es de:37489 bytes.
+La diferencia es de: 6183365 bytes.
+La imagen 21 se demoro: 0.027924776077270508 en comprimirse.
+
+El tamaño de la imagen CP BMP 22 es de:6220854 bytes.
+El tamaño de la imagen JPG 22 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 22 se demoro: 0.02794170379638672 en comprimirse.
+
+El tamaño de la imagen CP BMP 23 es de:6220854 bytes.
+El tamaño de la imagen JPG 23 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 23 se demoro: 0.02693939208984375 en comprimirse.
+
+El tamaño de la imagen CP BMP 24 es de:6220854 bytes.
+El tamaño de la imagen JPG 24 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 24 se demoro: 0.030919313430786133 en comprimirse.
+
+El tamaño de la imagen CP BMP 25 es de:6220854 bytes.
+El tamaño de la imagen JPG 25 es de:33268 bytes.
+La diferencia es de: 6187586 bytes.
+La imagen 25 se demoro: 0.02692556381225586 en comprimirse.
+
+El tamaño de la imagen CP BMP 26 es de:6220854 bytes.
+El tamaño de la imagen JPG 26 es de:33267 bytes.
+La diferencia es de: 6187587 bytes.
+La imagen 26 se demoro: 0.029914140701293945 en comprimirse.
+
+El tamaño de la imagen CP BMP 27 es de:6220854 bytes.
+El tamaño de la imagen JPG 27 es de:33268 bytes.
+La diferencia es de: 6187586 bytes.
+La imagen 27 se demoro: 0.0279233455657959 en comprimirse.
+
+El tamaño de la imagen CP BMP 28 es de:6220854 bytes.
+El tamaño de la imagen JPG 28 es de:33269 bytes.
+La diferencia es de: 6187585 bytes.
+La imagen 28 se demoro: 0.03093552589416504 en comprimirse.
+
+El tamaño de la imagen CP BMP 29 es de:6220854 bytes.
+El tamaño de la imagen JPG 29 es de:33268 bytes.
+La diferencia es de: 6187586 bytes.
+La imagen 29 se demoro: 0.028904199600219727 en comprimirse.
+
+El tamaño de la imagen CP BMP 30 es de:6220854 bytes.
+El tamaño de la imagen JPG 30 es de:33267 bytes.
+La diferencia es de: 6187587 bytes.
+La imagen 30 se demoro: 0.02991962432861328 en comprimirse.
+

@@ -1,0 +1,150 @@
+El tamaño de la imagen BMP 1 es de:6220854 bytes.
+El tamaño de la imagen GIF 1 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 1 se demoro: 0.17555904388427734 en comprimirse.
+
+El tamaño de la imagen BMP 2 es de:6220854 bytes.
+El tamaño de la imagen GIF 2 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 2 se demoro: 0.1296217441558838 en comprimirse.
+
+El tamaño de la imagen BMP 3 es de:6220854 bytes.
+El tamaño de la imagen GIF 3 es de:30364 bytes.
+La diferencia es de: 6190490 bytes.
+La imagen 3 se demoro: 0.1515953540802002 en comprimirse.
+
+El tamaño de la imagen BMP 4 es de:6220854 bytes.
+El tamaño de la imagen GIF 4 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 4 se demoro: 0.1376509666442871 en comprimirse.
+
+El tamaño de la imagen BMP 5 es de:6220854 bytes.
+El tamaño de la imagen GIF 5 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 5 se demoro: 0.1745295524597168 en comprimirse.
+
+El tamaño de la imagen BMP 6 es de:6220854 bytes.
+El tamaño de la imagen GIF 6 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 6 se demoro: 0.1705458164215088 en comprimirse.
+
+El tamaño de la imagen BMP 7 es de:6220854 bytes.
+El tamaño de la imagen GIF 7 es de:29784 bytes.
+La diferencia es de: 6191070 bytes.
+La imagen 7 se demoro: 0.18949055671691895 en comprimirse.
+
+El tamaño de la imagen BMP 8 es de:6220854 bytes.
+El tamaño de la imagen GIF 8 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 8 se demoro: 0.14544272422790527 en comprimirse.
+
+El tamaño de la imagen BMP 9 es de:6220854 bytes.
+El tamaño de la imagen GIF 9 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 9 se demoro: 0.14746618270874023 en comprimirse.
+
+El tamaño de la imagen BMP 10 es de:6220854 bytes.
+El tamaño de la imagen GIF 10 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 10 se demoro: 0.13916325569152832 en comprimirse.
+
+El tamaño de la imagen BMP 11 es de:6220854 bytes.
+El tamaño de la imagen GIF 11 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 11 se demoro: 0.12762713432312012 en comprimirse.
+
+El tamaño de la imagen BMP 12 es de:6220854 bytes.
+El tamaño de la imagen GIF 12 es de:1237395 bytes.
+La diferencia es de: 4983459 bytes.
+La imagen 12 se demoro: 0.15558552742004395 en comprimirse.
+
+El tamaño de la imagen BMP 13 es de:6220854 bytes.
+El tamaño de la imagen GIF 13 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 13 se demoro: 0.13663411140441895 en comprimirse.
+
+El tamaño de la imagen BMP 14 es de:6220854 bytes.
+El tamaño de la imagen GIF 14 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 14 se demoro: 0.12267017364501953 en comprimirse.
+
+El tamaño de la imagen BMP 15 es de:6220854 bytes.
+El tamaño de la imagen GIF 15 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 15 se demoro: 0.13464045524597168 en comprimirse.
+
+El tamaño de la imagen BMP 16 es de:6220854 bytes.
+El tamaño de la imagen GIF 16 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 16 se demoro: 0.129166841506958 en comprimirse.
+
+El tamaño de la imagen BMP 17 es de:6220854 bytes.
+El tamaño de la imagen GIF 17 es de:29800 bytes.
+La diferencia es de: 6191054 bytes.
+La imagen 17 se demoro: 0.20248174667358398 en comprimirse.
+
+El tamaño de la imagen BMP 18 es de:6220854 bytes.
+El tamaño de la imagen GIF 18 es de:789758 bytes.
+La diferencia es de: 5431096 bytes.
+La imagen 18 se demoro: 0.20511364936828613 en comprimirse.
+
+El tamaño de la imagen BMP 19 es de:6220854 bytes.
+El tamaño de la imagen GIF 19 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 19 se demoro: 0.13463973999023438 en comprimirse.
+
+El tamaño de la imagen BMP 20 es de:6220854 bytes.
+El tamaño de la imagen GIF 20 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 20 se demoro: 0.17817902565002441 en comprimirse.
+
+El tamaño de la imagen BMP 21 es de:6220854 bytes.
+El tamaño de la imagen GIF 21 es de:496226 bytes.
+La diferencia es de: 5724628 bytes.
+La imagen 21 se demoro: 0.1705455780029297 en comprimirse.
+
+El tamaño de la imagen BMP 22 es de:6220854 bytes.
+El tamaño de la imagen GIF 22 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 22 se demoro: 0.12470221519470215 en comprimirse.
+
+El tamaño de la imagen BMP 23 es de:6220854 bytes.
+El tamaño de la imagen GIF 23 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 23 se demoro: 0.13862872123718262 en comprimirse.
+
+El tamaño de la imagen BMP 24 es de:6220854 bytes.
+El tamaño de la imagen GIF 24 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 24 se demoro: 0.13862991333007812 en comprimirse.
+
+El tamaño de la imagen BMP 25 es de:6220854 bytes.
+El tamaño de la imagen GIF 25 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 25 se demoro: 0.13863182067871094 en comprimirse.
+
+El tamaño de la imagen BMP 26 es de:6220854 bytes.
+El tamaño de la imagen GIF 26 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 26 se demoro: 0.11768436431884766 en comprimirse.
+
+El tamaño de la imagen BMP 27 es de:6220854 bytes.
+El tamaño de la imagen GIF 27 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 27 se demoro: 0.1186838150024414 en comprimirse.
+
+El tamaño de la imagen BMP 28 es de:6220854 bytes.
+El tamaño de la imagen GIF 28 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 28 se demoro: 0.11469841003417969 en comprimirse.
+
+El tamaño de la imagen BMP 29 es de:6220854 bytes.
+El tamaño de la imagen GIF 29 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 29 se demoro: 0.12012672424316406 en comprimirse.
+
+El tamaño de la imagen BMP 30 es de:6220854 bytes.
+El tamaño de la imagen GIF 30 es de:19279 bytes.
+La diferencia es de: 6201575 bytes.
+La imagen 30 se demoro: 0.11853671073913574 en comprimirse.
+
