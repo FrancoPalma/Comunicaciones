@@ -1,8 +1,34 @@
+import random
 p=1
+
+H = [[1,1,1,0,0,1,0,0,0],
+     [0,1,1,1,0,0,1,0,0],
+     [0,0,1,1,1,0,0,1,0],
+     [1,0,1,0,1,0,0,0,1]]
+
+l =[]
+tabla_sindrome = []
+l.append(0)
+l.append(0)
+l.append(0)
+l.append(0)
+tabla_sindrome.append(l)
+
+cont = 1
+l =[]
+for cont in range(9):
+    l.append(H[0][cont])
+    l.append(H[1][cont])
+    l.append(H[2][cont])
+    l.append(H[3][cont])
+    tabla_sindrome.append(l)
+    l = []
+    cont +=1
+
+
 for i in range(30):
     file = open("Archivos/Archivo"+str(p)+".txt", "r")
     texto = ""
-    binario=""
     for i in file:
         texto += i;
     file.close()
@@ -207,7 +233,7 @@ for i in range(30):
         else:
             l.append(0)
 
-        if (l[1] + l[2] + l[4])%2 != 0:
+        if (l[0] + l[2] + l[4])%2 != 0:
             l.append(1)
         else:
             l.append(0)
@@ -215,13 +241,6 @@ for i in range(30):
 
         codigo.append(l)
         l = []
-
-
-        file2 = open("Paridad/paridad"+str(p)+".txt", "a+")
-        file2.write(str(codigo))
-        file2.close()
-
-
 
     min= 999;
     for i in codigo:
@@ -233,8 +252,166 @@ for i in range(30):
             if aux !=0:
                 min = aux
 
-    file2 = open("Paridad/paridad"+str(p)+".txt", "a+")
+
+    file2 = open("Paridad/Paridad"+str(p)+".txt", "a+")
+    file2.write(str(codigo))
     file2.write("\n")
     file2.write(str(min))
+    file2.write("\n")
+    file2.write("\n")
     file2.close()
+
+    Ferror = []
+    Serror = []
+    Terror = []
+
+    l2 = []
+    for i in codigo:
+        for j in i:
+            if random.random() <= 0.1:
+                if j == 0:
+                    l2.append(1)
+                else:
+                    l2.append(0)
+            else:
+                l2.append(j)
+
+        Ferror.append(l2)
+        l2 = []
+
+    l2 = []
+    sindrome = []
+
+    for i in Ferror:
+        fila = 0
+        while fila < 4:
+            suma = 0
+            columna = 0
+            while columna < 9:
+                suma += i[columna]*H[fila][columna]
+                columna += 1
+            if(suma % 2 == 0):
+                suma = 0
+            else:
+                suma = 1
+            l2.append(suma)
+            fila += 1
+        sindrome.append(l2)
+        l2 = []
+
+    file2 = open("Paridad/Paridad"+str(p)+".txt", "a+")
+    file2.write("ERROR 0.1")
+    file2.write("\n")
+    file2.write(str(Ferror))
+    file2.write("\n")
+    file2.write("\n")
+    file2.write("SINDROMES 0.1")
+    file2.write("\n")
+    file2.write(str(sindrome))
+    file2.write("\n")
+    file2.write("\n")
+    file2.close()
+
+    l2 = []
+    for i in codigo:
+        for j in i:
+            if random.random() <= 0.01:
+                if j == 0:
+                    l2.append(1)
+                else:
+                    l2.append(0)
+            else:
+                l2.append(j)
+
+        Serror.append(l2)
+        l2 = []
+
+    l2 = []
+    sindrome = []
+
+    for i in Serror:
+        fila = 0
+        while fila < 4:
+            suma = 0
+            columna = 0
+            while columna < 9:
+                suma += i[columna]*H[fila][columna]
+                columna += 1
+            if(suma % 2 == 0):
+                suma = 0
+            else:
+                suma = 1
+            l2.append(suma)
+            fila += 1
+        sindrome.append(l2)
+        l2 = []
+
+
+
+
+    file2 = open("Paridad/Paridad"+str(p)+".txt", "a+")
+    file2.write("ERROR 0.01")
+    file2.write("\n")
+    file2.write(str(Serror))
+    file2.write("\n")
+    file2.write("\n")
+    file2.write("SINDROMES")
+    file2.write("\n")
+    file2.write(str(sindrome))
+    file2.write("\n")
+    file2.write("\n")
+    file2.close()
+
+    l2 = []
+    for i in codigo:
+        for j in i:
+            if random.random() <= 0.001:
+                if j == 0:
+                    l2.append(1)
+                else:
+                    l2.append(0)
+            else:
+                l2.append(j)
+
+        Terror.append(l2)
+        l2 = []
+
+    l2 = []
+    sindrome = []
+
+    for i in Terror:
+        fila = 0
+        while fila < 4:
+            suma = 0
+            columna = 0
+            while columna < 9:
+                suma += i[columna]*H[fila][columna]
+                columna += 1
+            if(suma % 2 == 0):
+                suma = 0
+            else:
+                suma = 1
+            l2.append(suma)
+            fila += 1
+        sindrome.append(l2)
+        l2 = []
+
+    file2 = open("Paridad/Paridad"+str(p)+".txt", "a+")
+    file2.write("ERROR 0.001")
+    file2.write("\n")
+    file2.write(str(Terror))
+    file2.write("\n")
+    file2.write("\n")
+    file2.write("SINDROMES")
+    file2.write("\n")
+    file2.write(str(sindrome))
+    file2.write("\n")
+    file2.write("\n")
+    file2.close()
+
     p+=1
+
+file2 = open("Paridad/tabla_sindrome.txt", "w")
+file2.write("\n")
+file2.write(str(tabla_sindrome))
+file2.close()
