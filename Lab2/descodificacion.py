@@ -3,6 +3,7 @@ for i in range(30):
     file = open("Codigos/Codigo"+str(p)+".txt", "r")
     texto = ""
     aux=""
+    bina=""
     Verificador=True
     for i in file:
         texto += i;
@@ -17,11 +18,13 @@ for i in range(30):
                 Verificador=False
             if ((int(aux[2])+int(aux[3])+int(aux[4]))%2) == aux[7]:
                 Verificador=False
-            if ((int(aux[3])+int(aux[4])+int(aux[5]))%2) == aux[8]:
+            if ((int(aux[0])+int(aux[2])+int(aux[4]))%2) == aux[8]:
                 Verificador=False
             bina='011'
             for i in range(5):
                 bina+=aux[i]
+            if int(bina,2) > 25 or int(bina,2) < 0:
+                Verificador=False
             file2.write(chr(int(bina,2)+1))
             aux=""
     if Verificador:

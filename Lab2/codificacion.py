@@ -2,6 +2,8 @@ p=1
 for i in range(30):
     file = open("Archivos/Archivo"+str(p)+".txt", "r")
     texto = ""
+    min=99
+    count=0
     for i in file:
         texto += i;
     file.close()
@@ -25,10 +27,16 @@ for i in range(30):
             binario+=str(0)
         else:
             binario+=str(1)
-        if ((int(binario[3])+int(binario[4])+int(binario[5]))%2) == 0:
+        if ((int(binario[0])+int(binario[2])+int(binario[4]))%2) == 0:
             binario+=str(0)
         else:
             binario+=str(1)
         file2.write(binario)
+        for i in binario:
+            if i =='1':
+                count+=1
+        if count < min and count != 0:
+            min = count
+    file2.write("\nEl minimo es: "+str(min))
     file2.close()
     p+=1
