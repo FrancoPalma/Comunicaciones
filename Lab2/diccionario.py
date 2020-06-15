@@ -253,7 +253,7 @@ for i in range(30):
                 min = aux
 
 
-    file2 = open("Paridad/Paridad"+str(p)+".txt", "a+")
+    file2 = open("Paridad/PARIDAD"+str(p)+".txt", "a+")
     file2.write(str(codigo))
     file2.write("\n")
     file2.write(str(min))
@@ -299,15 +299,24 @@ for i in range(30):
         sindrome.append(l2)
         l2 = []
 
-    file2 = open("Paridad/Paridad"+str(p)+".txt", "a+")
+    error = 0
+    for i in sindrome:
+        if(i[0] != 0 or i[1] != 0 or i[2] !=0 or i[3] != 0):
+            error +=1
+
+    file2 = open("Paridad/PARIDAD"+str(p)+".txt", "a+")
     file2.write("ERROR 0.1")
     file2.write("\n")
     file2.write(str(Ferror))
     file2.write("\n")
     file2.write("\n")
-    file2.write("SINDROMES 0.1")
+    file2.write("SINDROMES  DE ERROR 0.1")
     file2.write("\n")
     file2.write(str(sindrome))
+    file2.write("\n")
+    file2.write("\n")
+    file2.write("CANTIDAD DE ERRORES: ")
+    file2.write(str(error))
     file2.write("\n")
     file2.write("\n")
     file2.close()
@@ -346,18 +355,24 @@ for i in range(30):
         sindrome.append(l2)
         l2 = []
 
+    error = 0
+    for i in sindrome:
+        if(i[0] != 0 or i[1] != 0 or i[2] !=0 or i[3] != 0):
+            error +=1
 
-
-
-    file2 = open("Paridad/Paridad"+str(p)+".txt", "a+")
+    file2 = open("Paridad/PARIDAD"+str(p)+".txt", "a+")
     file2.write("ERROR 0.01")
     file2.write("\n")
     file2.write(str(Serror))
     file2.write("\n")
     file2.write("\n")
-    file2.write("SINDROMES")
+    file2.write("SINDROMES DE ERROR 0.0l")
     file2.write("\n")
     file2.write(str(sindrome))
+    file2.write("\n")
+    file2.write("\n")
+    file2.write("CANTIDAD DE ERRORES: ")
+    file2.write(str(error))
     file2.write("\n")
     file2.write("\n")
     file2.close()
@@ -396,17 +411,27 @@ for i in range(30):
         sindrome.append(l2)
         l2 = []
 
-    file2 = open("Paridad/Paridad"+str(p)+".txt", "a+")
+    error = 0
+    for i in sindrome:
+        if(i[0] != 0 or i[1] != 0 or i[2] !=0 or i[3] != 0):
+            error +=1
+
+    file2 = open("Paridad/PARIDAD"+str(p)+".txt", "a+")
     file2.write("ERROR 0.001")
     file2.write("\n")
     file2.write(str(Terror))
     file2.write("\n")
     file2.write("\n")
-    file2.write("SINDROMES")
+    file2.write("SINDROMES DE ERROR 0.001")
     file2.write("\n")
     file2.write(str(sindrome))
     file2.write("\n")
     file2.write("\n")
+    file2.write("CANTIDAD DE ERRORES: ")
+    file2.write(str(error))
+    file2.write("\n")
+    file2.write("\n")
+    file2.close()
     file2.close()
 
     p+=1
