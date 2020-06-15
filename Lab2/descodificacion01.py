@@ -9,7 +9,7 @@ for i in range(30):
     file2 = open("Descodificados/Error01/Descodificado"+str(p)+".txt", "w")
     for i in texto:
         aux+=i
-        if len(aux) == 8:
+        if len(aux) == 5:
             file2.write(chr(int(aux,2)))
             aux=""
     file2.close()
