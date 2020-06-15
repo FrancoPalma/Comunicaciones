@@ -23,6 +23,8 @@ for i in range(30):
             bina='011'
             for i in range(5):
                 bina+=aux[i]
+            if int(bina,2) > 25 or int(bina,2) < 0:
+                Verificador=False
             file2.write(chr(int(bina,2)+1))
             aux=""
     if Verificador:
