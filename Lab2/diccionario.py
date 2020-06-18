@@ -26,7 +26,11 @@ for cont in range(9):
     cont +=1
 
 
+
 for i in range(30):
+    corregidos1 = 0
+    corregidos2 = 0
+    corregidos3 = 0
     file = open("Archivos/Archivo"+str(p)+".txt", "r")
     texto = ""
     for i in file:
@@ -253,7 +257,7 @@ for i in range(30):
                 min = aux
 
 
-    file2 = open("Paridad/PARIDAD"+str(p)+".txt", "a+")
+    file2 = open("Paridad/resultados"+str(p)+".txt", "a+")
     file2.write(str(codigo))
     file2.write("\n")
     file2.write(str(min))
@@ -304,7 +308,23 @@ for i in range(30):
         if(i[0] != 0 or i[1] != 0 or i[2] !=0 or i[3] != 0):
             error +=1
 
-    file2 = open("Paridad/PARIDAD"+str(p)+".txt", "a+")
+
+    cont2 = 0
+    if error == 1:
+        corregidos1 +=1
+        for i in sindrome:
+            cont = 0;
+            if(i[0] == tabla_sindrome[cont][0] and i[1] == tabla_sindrome[cont][1] and i[2] == tabla_sindrome[cont][2] and i[3] == tabla_sindrome[cont][3]):
+                if(Ferror[cont2][cont] == 1):
+                    Ferror[cont2][cont] = 0
+                else:
+                    Ferror[cont2][cont] = 1
+            else:
+                cont += 1
+            cont2 += 1
+
+
+    file2 = open("Paridad/resultados"+str(p)+".txt", "a+")
     file2.write("ERROR 0.1")
     file2.write("\n")
     file2.write(str(Ferror))
@@ -317,6 +337,10 @@ for i in range(30):
     file2.write("\n")
     file2.write("CANTIDAD DE ERRORES: ")
     file2.write(str(error))
+    file2.write("\n")
+    file2.write("\n")
+    file2.write("CANTIDAD DE ERRORES CORREGIDOS: ")
+    file2.write(str(corregidos1))
     file2.write("\n")
     file2.write("\n")
     file2.close()
@@ -360,7 +384,23 @@ for i in range(30):
         if(i[0] != 0 or i[1] != 0 or i[2] !=0 or i[3] != 0):
             error +=1
 
-    file2 = open("Paridad/PARIDAD"+str(p)+".txt", "a+")
+
+    cont2 = 0
+    if error == 1:
+        corregidos2 +=1
+        for i in sindrome:
+            cont = 0;
+            if(i[0] == tabla_sindrome[cont][0] and i[1] == tabla_sindrome[cont][1] and i[2] == tabla_sindrome[cont][2] and i[3] == tabla_sindrome[cont][3]):
+                if(Serror[cont2][cont] == 1):
+                    Serror[cont2][cont] = 0
+                else:
+                    Serror[cont2][cont] = 1
+            else:
+                cont += 1
+            cont2 += 1
+
+
+    file2 = open("Paridad/resultados"+str(p)+".txt", "a+")
     file2.write("ERROR 0.01")
     file2.write("\n")
     file2.write(str(Serror))
@@ -373,6 +413,10 @@ for i in range(30):
     file2.write("\n")
     file2.write("CANTIDAD DE ERRORES: ")
     file2.write(str(error))
+    file2.write("\n")
+    file2.write("\n")
+    file2.write("CANTIDAD DE ERRORES CORREGIDOS: ")
+    file2.write(str(corregidos2))
     file2.write("\n")
     file2.write("\n")
     file2.close()
@@ -416,7 +460,26 @@ for i in range(30):
         if(i[0] != 0 or i[1] != 0 or i[2] !=0 or i[3] != 0):
             error +=1
 
-    file2 = open("Paridad/PARIDAD"+str(p)+".txt", "a+")
+
+    cont2 = 0
+    if error == 1:
+        corregidos3 +=1
+        for i in sindrome:
+            cont = 0;
+            if(i[0] == tabla_sindrome[cont][0] and i[1] == tabla_sindrome[cont][1] and i[2] == tabla_sindrome[cont][2] and i[3] == tabla_sindrome[cont][3]):
+                if(Terror[cont2][cont] == 1):
+                    Terror[cont2][cont] = 0
+                else:
+                    Terror[cont2][cont] = 1
+            else:
+                cont += 1
+            cont2 += 1
+
+
+
+
+
+    file2 = open("Paridad/resultados"+str(p)+".txt", "a+")
     file2.write("ERROR 0.001")
     file2.write("\n")
     file2.write(str(Terror))
@@ -429,6 +492,10 @@ for i in range(30):
     file2.write("\n")
     file2.write("CANTIDAD DE ERRORES: ")
     file2.write(str(error))
+    file2.write("\n")
+    file2.write("\n")
+    file2.write("CANTIDAD DE ERRORES CORREGIDOS: ")
+    file2.write(str(corregidos3))
     file2.write("\n")
     file2.write("\n")
     file2.close()
